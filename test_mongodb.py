@@ -43,7 +43,6 @@ parse.add_option('-c',
 
 
 def func_time(func):
-
     def _wrapper(*args, **kwargs):
         start = time.time()
         func(*args, **kwargs)
@@ -126,6 +125,7 @@ def main():
         st = SingleProcessTest(URL)
         st.single_record_search()
         return
+
     if options.action == 2:
         st = SingleProcessTest(URL)
         st.single_record_search()
