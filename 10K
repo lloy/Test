@@ -1,0 +1,90 @@
+Sep  1 10:39:41 fedora19 gnome-session[1056]: 窗口管理器警告：Log level 8: meta_ui_frame_get_borders: assertion `type < META_FRAME_TYPE_LAST' failed
+Sep  1 10:39:44 fedora19 gnome-session[1056]: 窗口管理器警告：Log level 16: STACK_OP_RAISE_ABOVE: sibling window 0x247b4c4 not in stack
+Sep  1 10:41:07 fedora19 gnome-session[1056]: (nautilus:2336): GnomeDesktop-WARNING **: Unable to create loader for mime type application/vnd.oasis.opendocument.graphics: 无法识别的图像文件格式
+Sep  1 10:41:07 fedora19 gnome-session[1056]: (nautilus:2336): GnomeDesktop-WARNING **: Error creating thumbnail for file:///home/hardy/cds-mongodb%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2%E5%9B%BE.odg: 无法识别的图像文件格式
+Sep  1 10:51:06 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 10:51:06 fedora19 dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 10:51:06 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 10:51:06 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 10:51:20 fedora19 kernel: [ 3682.276265] usb 3-6: USB disconnect, device number 3
+Sep  1 10:51:28 fedora19 colord: Automatic metadata add icc-1cce6fdc7cf30e6c63e0e182337c79a8 to xrandr-Dell Inc.-DELL U2412M-3W9XD3452NCL
+Sep  1 10:51:28 fedora19 colord: Device added: xrandr-Dell Inc.-DELL U2412M-3W9XD3452NCL
+Sep  1 10:51:47 fedora19 kernel: [ 3709.333053] usb 3-6: new low-speed USB device number 6 using xhci_hcd
+Sep  1 10:51:47 fedora19 kernel: [ 3709.515266] usb 3-6: New USB device found, idVendor=413c, idProduct=2105
+Sep  1 10:51:47 fedora19 kernel: [ 3709.515272] usb 3-6: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+Sep  1 10:51:47 fedora19 kernel: [ 3709.515275] usb 3-6: Product: Dell USB Keyboard
+Sep  1 10:51:47 fedora19 kernel: [ 3709.515278] usb 3-6: Manufacturer: Dell
+Sep  1 10:51:47 fedora19 kernel: [ 3709.515564] usb 3-6: ep 0x81 - rounding interval to 128 microframes, ep desc says 192 microframes
+Sep  1 10:51:47 fedora19 kernel: [ 3709.532435] input: Dell Dell USB Keyboard as /devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/0003:413C:2105.0002/input/input16
+Sep  1 10:51:47 fedora19 kernel: [ 3709.532710] hid-generic 0003:413C:2105.0002: input,hidraw0: USB HID v1.10 Keyboard [Dell Dell USB Keyboard] on usb-0000:00:14.0-6/input0
+Sep  1 10:51:47 fedora19 mtp-probe: checking bus 3, device 6: "/sys/devices/pci0000:00/0000:00:14.0/usb3/3-6"
+Sep  1 10:51:47 fedora19 mtp-probe: bus: 3, device: 6 was not an MTP device
+Sep  1 10:51:47 fedora19 gnome-session[1056]: (gnome-settings-daemon:1454): keyboard-plugin-WARNING **: Couldn't upload new XKB keyboard description
+Sep  1 10:52:06 fedora19 systemd-logind[588]: Lid closed.
+Sep  1 10:56:33 fedora19 gnome-session[1056]: JS ERROR: !!!   Exception was: TypeError: common is null
+Sep  1 10:56:33 fedora19 gnome-session[1056]: JS ERROR: !!!     message = '"common is null"'
+Sep  1 10:56:33 fedora19 gnome-session[1056]: JS ERROR: !!!     fileName = '"/usr/share/gnome-shell/js/ui/runDialog.js"'
+Sep  1 10:56:33 fedora19 gnome-session[1056]: JS ERROR: !!!     lineNumber = '186'
+Sep  1 10:56:33 fedora19 gnome-session[1056]: JS ERROR: !!!     stack = '"("gon")@/usr/share/gnome-shell/js/ui/runDialog.js:186
+Sep  1 10:56:33 fedora19 gnome-session[1056]: wrapper("gon")@/usr/share/gjs-1.0/lang.js:213
+Sep  1 10:56:33 fedora19 gnome-session[1056]: ("gon")@/usr/share/gnome-shell/js/ui/runDialog.js:193
+Sep  1 10:56:33 fedora19 gnome-session[1056]: wrapper("gon")@/usr/share/gjs-1.0/lang.js:213
+Sep  1 10:56:33 fedora19 gnome-session[1056]: ([object GObject_Object],[object GObject_Union])@/usr/share/gnome-shell/js/ui/runDialog.js:136
+Sep  1 10:56:33 fedora19 gnome-session[1056]: "'
+Sep  1 10:58:31 fedora19 kernel: [ 4114.676257] usb 3-6: USB disconnect, device number 6
+Sep  1 10:58:36 fedora19 kernel: [ 4119.303075] usb 3-6: new low-speed USB device number 7 using xhci_hcd
+Sep  1 10:58:36 fedora19 kernel: [ 4119.470925] usb 3-6: New USB device found, idVendor=046d, idProduct=c077
+Sep  1 10:58:36 fedora19 kernel: [ 4119.470932] usb 3-6: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+Sep  1 10:58:36 fedora19 kernel: [ 4119.470936] usb 3-6: Product: USB Optical Mouse
+Sep  1 10:58:36 fedora19 kernel: [ 4119.470939] usb 3-6: Manufacturer: Logitech
+Sep  1 10:58:36 fedora19 kernel: [ 4119.471622] usb 3-6: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+Sep  1 10:58:36 fedora19 kernel: [ 4119.474041] input: Logitech USB Optical Mouse as /devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/0003:046D:C077.0003/input/input17
+Sep  1 10:58:36 fedora19 kernel: [ 4119.474420] hid-generic 0003:046D:C077.0003: input,hidraw0: USB HID v1.11 Mouse [Logitech USB Optical Mouse] on usb-0000:00:14.0-6/input0
+Sep  1 10:58:36 fedora19 mtp-probe: checking bus 3, device 7: "/sys/devices/pci0000:00/0000:00:14.0/usb3/3-6"
+Sep  1 10:58:36 fedora19 mtp-probe: bus: 3, device: 7 was not an MTP device
+Sep  1 10:58:44 fedora19 kernel: [ 4126.822048] usb 3-6: USB disconnect, device number 7
+Sep  1 10:58:47 fedora19 kernel: [ 4130.116881] usb 3-6: new low-speed USB device number 9 using xhci_hcd
+Sep  1 10:58:47 fedora19 kernel: [ 4130.298013] usb 3-6: New USB device found, idVendor=413c, idProduct=2105
+Sep  1 10:58:47 fedora19 kernel: [ 4130.298020] usb 3-6: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+Sep  1 10:58:47 fedora19 kernel: [ 4130.298024] usb 3-6: Product: Dell USB Keyboard
+Sep  1 10:58:47 fedora19 kernel: [ 4130.298027] usb 3-6: Manufacturer: Dell
+Sep  1 10:58:47 fedora19 kernel: [ 4130.298401] usb 3-6: ep 0x81 - rounding interval to 128 microframes, ep desc says 192 microframes
+Sep  1 10:58:47 fedora19 kernel: [ 4130.314791] input: Dell Dell USB Keyboard as /devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/0003:413C:2105.0004/input/input18
+Sep  1 10:58:47 fedora19 kernel: [ 4130.315322] hid-generic 0003:413C:2105.0004: input,hidraw0: USB HID v1.10 Keyboard [Dell Dell USB Keyboard] on usb-0000:00:14.0-6/input0
+Sep  1 10:58:47 fedora19 mtp-probe: checking bus 3, device 9: "/sys/devices/pci0000:00/0000:00:14.0/usb3/3-6"
+Sep  1 10:58:47 fedora19 mtp-probe: bus: 3, device: 9 was not an MTP device
+Sep  1 10:58:47 fedora19 gnome-session[1056]: (gnome-settings-daemon:1454): keyboard-plugin-WARNING **: Couldn't upload new XKB keyboard description
+Sep  1 10:58:51 fedora19 kernel: [ 4134.730028] usb 3-1: USB disconnect, device number 2
+Sep  1 10:58:51 fedora19 avahi-daemon[607]: Withdrawing workstation service for enp0s20u1c4i2.
+Sep  1 10:58:51 fedora19 NetworkManager[689]: <info> (enp0s20u1c4i2): device state change: unavailable -> unmanaged (reason 'removed') [20 10 36]
+Sep  1 10:58:51 fedora19 NetworkManager[689]: <info> (enp0s20u1c4i2): cleaning up...
+Sep  1 10:58:51 fedora19 NetworkManager[689]: <warn> (4) failed to find interface name for index
+Sep  1 10:58:51 fedora19 NetworkManager[689]: (nm-system.c:766):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+Sep  1 10:58:51 fedora19 NetworkManager[689]: <error> [1409540331.962157] [nm-system.c:768] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+Sep  1 10:58:51 fedora19 kernel: [ 4134.736876] ipheth 3-1:4.2: Apple iPhone USB Ethernet now disconnected
+Sep  1 10:58:51 fedora19 colord: device removed: sysfs-Apple_Inc.-iPhone
+Sep  1 10:58:54 fedora19 kernel: [ 4137.495060] usb 3-1: new low-speed USB device number 10 using xhci_hcd
+Sep  1 10:58:54 fedora19 kernel: [ 4137.662930] usb 3-1: New USB device found, idVendor=046d, idProduct=c077
+Sep  1 10:58:54 fedora19 kernel: [ 4137.662940] usb 3-1: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+Sep  1 10:58:54 fedora19 kernel: [ 4137.662945] usb 3-1: Product: USB Optical Mouse
+Sep  1 10:58:54 fedora19 kernel: [ 4137.662949] usb 3-1: Manufacturer: Logitech
+Sep  1 10:58:54 fedora19 kernel: [ 4137.663439] usb 3-1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+Sep  1 10:58:54 fedora19 kernel: [ 4137.666361] input: Logitech USB Optical Mouse as /devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/0003:046D:C077.0005/input/input19
+Sep  1 10:58:54 fedora19 kernel: [ 4137.667000] hid-generic 0003:046D:C077.0005: input,hidraw1: USB HID v1.11 Mouse [Logitech USB Optical Mouse] on usb-0000:00:14.0-1/input0
+Sep  1 10:58:54 fedora19 mtp-probe: checking bus 3, device 10: "/sys/devices/pci0000:00/0000:00:14.0/usb3/3-1"
+Sep  1 10:58:54 fedora19 mtp-probe: bus: 3, device: 10 was not an MTP device
+Sep  1 10:59:45 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 10:59:45 fedora19 dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 10:59:45 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 10:59:45 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 11:00:31 fedora19 gnome-session[1056]: JS ERROR: !!!   Exception was: TypeError: common is null
+Sep  1 11:00:31 fedora19 gnome-session[1056]: JS ERROR: !!!     message = '"common is null"'
+Sep  1 11:00:31 fedora19 gnome-session[1056]: JS ERROR: !!!     fileName = '"/usr/share/gnome-shell/js/ui/runDialog.js"'
+Sep  1 11:00:31 fedora19 gnome-session[1056]: JS ERROR: !!!     lineNumber = '186'
+Sep  1 11:00:31 fedora19 gnome-session[1056]: JS ERROR: !!!     stack = '"("update-ma")@/usr/share/gnome-shell/js/ui/runDialog.js:186
+Sep  1 11:00:31 fedora19 gnome-session[1056]: wrapper("update-ma")@/usr/share/gjs-1.0/lang.js:213
+Sep  1 11:00:31 fedora19 gnome-session[1056]: ("update-ma")@/usr/share/gnome-shell/js/ui/runDialog.js:193
+Sep  1 11:00:31 fedora19 gnome-session[1056]: wrapper("update-ma")@/usr/share/gjs-1.0/lang.js:213
+Sep  1 11:00:31 fedora19 gnome-session[1056]: ([object GObject_Object],[object GObject_Union])@/usr/share/gnome-shell/js/ui/runDialog.js:136
+Sep  1 11:00:31 fedora19 gnome-session[1056]: "'
+Sep  1 11:01:26 fedora19 gnome-session[1056]: Failed to op

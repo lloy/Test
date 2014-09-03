@@ -1,0 +1,890 @@
+Sep  1 10:39:41 fedora19 gnome-session[1056]: 窗口管理器警告：Log level 8: meta_ui_frame_get_borders: assertion `type < META_FRAME_TYPE_LAST' failed
+Sep  1 10:39:44 fedora19 gnome-session[1056]: 窗口管理器警告：Log level 16: STACK_OP_RAISE_ABOVE: sibling window 0x247b4c4 not in stack
+Sep  1 10:41:07 fedora19 gnome-session[1056]: (nautilus:2336): GnomeDesktop-WARNING **: Unable to create loader for mime type application/vnd.oasis.opendocument.graphics: 无法识别的图像文件格式
+Sep  1 10:41:07 fedora19 gnome-session[1056]: (nautilus:2336): GnomeDesktop-WARNING **: Error creating thumbnail for file:///home/hardy/cds-mongodb%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2%E5%9B%BE.odg: 无法识别的图像文件格式
+Sep  1 10:51:06 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 10:51:06 fedora19 dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 10:51:06 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 10:51:06 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 10:51:20 fedora19 kernel: [ 3682.276265] usb 3-6: USB disconnect, device number 3
+Sep  1 10:51:28 fedora19 colord: Automatic metadata add icc-1cce6fdc7cf30e6c63e0e182337c79a8 to xrandr-Dell Inc.-DELL U2412M-3W9XD3452NCL
+Sep  1 10:51:28 fedora19 colord: Device added: xrandr-Dell Inc.-DELL U2412M-3W9XD3452NCL
+Sep  1 10:51:47 fedora19 kernel: [ 3709.333053] usb 3-6: new low-speed USB device number 6 using xhci_hcd
+Sep  1 10:51:47 fedora19 kernel: [ 3709.515266] usb 3-6: New USB device found, idVendor=413c, idProduct=2105
+Sep  1 10:51:47 fedora19 kernel: [ 3709.515272] usb 3-6: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+Sep  1 10:51:47 fedora19 kernel: [ 3709.515275] usb 3-6: Product: Dell USB Keyboard
+Sep  1 10:51:47 fedora19 kernel: [ 3709.515278] usb 3-6: Manufacturer: Dell
+Sep  1 10:51:47 fedora19 kernel: [ 3709.515564] usb 3-6: ep 0x81 - rounding interval to 128 microframes, ep desc says 192 microframes
+Sep  1 10:51:47 fedora19 kernel: [ 3709.532435] input: Dell Dell USB Keyboard as /devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/0003:413C:2105.0002/input/input16
+Sep  1 10:51:47 fedora19 kernel: [ 3709.532710] hid-generic 0003:413C:2105.0002: input,hidraw0: USB HID v1.10 Keyboard [Dell Dell USB Keyboard] on usb-0000:00:14.0-6/input0
+Sep  1 10:51:47 fedora19 mtp-probe: checking bus 3, device 6: "/sys/devices/pci0000:00/0000:00:14.0/usb3/3-6"
+Sep  1 10:51:47 fedora19 mtp-probe: bus: 3, device: 6 was not an MTP device
+Sep  1 10:51:47 fedora19 gnome-session[1056]: (gnome-settings-daemon:1454): keyboard-plugin-WARNING **: Couldn't upload new XKB keyboard description
+Sep  1 10:52:06 fedora19 systemd-logind[588]: Lid closed.
+Sep  1 10:56:33 fedora19 gnome-session[1056]: JS ERROR: !!!   Exception was: TypeError: common is null
+Sep  1 10:56:33 fedora19 gnome-session[1056]: JS ERROR: !!!     message = '"common is null"'
+Sep  1 10:56:33 fedora19 gnome-session[1056]: JS ERROR: !!!     fileName = '"/usr/share/gnome-shell/js/ui/runDialog.js"'
+Sep  1 10:56:33 fedora19 gnome-session[1056]: JS ERROR: !!!     lineNumber = '186'
+Sep  1 10:56:33 fedora19 gnome-session[1056]: JS ERROR: !!!     stack = '"("gon")@/usr/share/gnome-shell/js/ui/runDialog.js:186
+Sep  1 10:56:33 fedora19 gnome-session[1056]: wrapper("gon")@/usr/share/gjs-1.0/lang.js:213
+Sep  1 10:56:33 fedora19 gnome-session[1056]: ("gon")@/usr/share/gnome-shell/js/ui/runDialog.js:193
+Sep  1 10:56:33 fedora19 gnome-session[1056]: wrapper("gon")@/usr/share/gjs-1.0/lang.js:213
+Sep  1 10:56:33 fedora19 gnome-session[1056]: ([object GObject_Object],[object GObject_Union])@/usr/share/gnome-shell/js/ui/runDialog.js:136
+Sep  1 10:56:33 fedora19 gnome-session[1056]: "'
+Sep  1 10:58:31 fedora19 kernel: [ 4114.676257] usb 3-6: USB disconnect, device number 6
+Sep  1 10:58:36 fedora19 kernel: [ 4119.303075] usb 3-6: new low-speed USB device number 7 using xhci_hcd
+Sep  1 10:58:36 fedora19 kernel: [ 4119.470925] usb 3-6: New USB device found, idVendor=046d, idProduct=c077
+Sep  1 10:58:36 fedora19 kernel: [ 4119.470932] usb 3-6: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+Sep  1 10:58:36 fedora19 kernel: [ 4119.470936] usb 3-6: Product: USB Optical Mouse
+Sep  1 10:58:36 fedora19 kernel: [ 4119.470939] usb 3-6: Manufacturer: Logitech
+Sep  1 10:58:36 fedora19 kernel: [ 4119.471622] usb 3-6: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+Sep  1 10:58:36 fedora19 kernel: [ 4119.474041] input: Logitech USB Optical Mouse as /devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/0003:046D:C077.0003/input/input17
+Sep  1 10:58:36 fedora19 kernel: [ 4119.474420] hid-generic 0003:046D:C077.0003: input,hidraw0: USB HID v1.11 Mouse [Logitech USB Optical Mouse] on usb-0000:00:14.0-6/input0
+Sep  1 10:58:36 fedora19 mtp-probe: checking bus 3, device 7: "/sys/devices/pci0000:00/0000:00:14.0/usb3/3-6"
+Sep  1 10:58:36 fedora19 mtp-probe: bus: 3, device: 7 was not an MTP device
+Sep  1 10:58:44 fedora19 kernel: [ 4126.822048] usb 3-6: USB disconnect, device number 7
+Sep  1 10:58:47 fedora19 kernel: [ 4130.116881] usb 3-6: new low-speed USB device number 9 using xhci_hcd
+Sep  1 10:58:47 fedora19 kernel: [ 4130.298013] usb 3-6: New USB device found, idVendor=413c, idProduct=2105
+Sep  1 10:58:47 fedora19 kernel: [ 4130.298020] usb 3-6: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+Sep  1 10:58:47 fedora19 kernel: [ 4130.298024] usb 3-6: Product: Dell USB Keyboard
+Sep  1 10:58:47 fedora19 kernel: [ 4130.298027] usb 3-6: Manufacturer: Dell
+Sep  1 10:58:47 fedora19 kernel: [ 4130.298401] usb 3-6: ep 0x81 - rounding interval to 128 microframes, ep desc says 192 microframes
+Sep  1 10:58:47 fedora19 kernel: [ 4130.314791] input: Dell Dell USB Keyboard as /devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/0003:413C:2105.0004/input/input18
+Sep  1 10:58:47 fedora19 kernel: [ 4130.315322] hid-generic 0003:413C:2105.0004: input,hidraw0: USB HID v1.10 Keyboard [Dell Dell USB Keyboard] on usb-0000:00:14.0-6/input0
+Sep  1 10:58:47 fedora19 mtp-probe: checking bus 3, device 9: "/sys/devices/pci0000:00/0000:00:14.0/usb3/3-6"
+Sep  1 10:58:47 fedora19 mtp-probe: bus: 3, device: 9 was not an MTP device
+Sep  1 10:58:47 fedora19 gnome-session[1056]: (gnome-settings-daemon:1454): keyboard-plugin-WARNING **: Couldn't upload new XKB keyboard description
+Sep  1 10:58:51 fedora19 kernel: [ 4134.730028] usb 3-1: USB disconnect, device number 2
+Sep  1 10:58:51 fedora19 avahi-daemon[607]: Withdrawing workstation service for enp0s20u1c4i2.
+Sep  1 10:58:51 fedora19 NetworkManager[689]: <info> (enp0s20u1c4i2): device state change: unavailable -> unmanaged (reason 'removed') [20 10 36]
+Sep  1 10:58:51 fedora19 NetworkManager[689]: <info> (enp0s20u1c4i2): cleaning up...
+Sep  1 10:58:51 fedora19 NetworkManager[689]: <warn> (4) failed to find interface name for index
+Sep  1 10:58:51 fedora19 NetworkManager[689]: (nm-system.c:766):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+Sep  1 10:58:51 fedora19 NetworkManager[689]: <error> [1409540331.962157] [nm-system.c:768] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+Sep  1 10:58:51 fedora19 kernel: [ 4134.736876] ipheth 3-1:4.2: Apple iPhone USB Ethernet now disconnected
+Sep  1 10:58:51 fedora19 colord: device removed: sysfs-Apple_Inc.-iPhone
+Sep  1 10:58:54 fedora19 kernel: [ 4137.495060] usb 3-1: new low-speed USB device number 10 using xhci_hcd
+Sep  1 10:58:54 fedora19 kernel: [ 4137.662930] usb 3-1: New USB device found, idVendor=046d, idProduct=c077
+Sep  1 10:58:54 fedora19 kernel: [ 4137.662940] usb 3-1: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+Sep  1 10:58:54 fedora19 kernel: [ 4137.662945] usb 3-1: Product: USB Optical Mouse
+Sep  1 10:58:54 fedora19 kernel: [ 4137.662949] usb 3-1: Manufacturer: Logitech
+Sep  1 10:58:54 fedora19 kernel: [ 4137.663439] usb 3-1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+Sep  1 10:58:54 fedora19 kernel: [ 4137.666361] input: Logitech USB Optical Mouse as /devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/0003:046D:C077.0005/input/input19
+Sep  1 10:58:54 fedora19 kernel: [ 4137.667000] hid-generic 0003:046D:C077.0005: input,hidraw1: USB HID v1.11 Mouse [Logitech USB Optical Mouse] on usb-0000:00:14.0-1/input0
+Sep  1 10:58:54 fedora19 mtp-probe: checking bus 3, device 10: "/sys/devices/pci0000:00/0000:00:14.0/usb3/3-1"
+Sep  1 10:58:54 fedora19 mtp-probe: bus: 3, device: 10 was not an MTP device
+Sep  1 10:59:45 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 10:59:45 fedora19 dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 10:59:45 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 10:59:45 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 11:00:31 fedora19 gnome-session[1056]: JS ERROR: !!!   Exception was: TypeError: common is null
+Sep  1 11:00:31 fedora19 gnome-session[1056]: JS ERROR: !!!     message = '"common is null"'
+Sep  1 11:00:31 fedora19 gnome-session[1056]: JS ERROR: !!!     fileName = '"/usr/share/gnome-shell/js/ui/runDialog.js"'
+Sep  1 11:00:31 fedora19 gnome-session[1056]: JS ERROR: !!!     lineNumber = '186'
+Sep  1 11:00:31 fedora19 gnome-session[1056]: JS ERROR: !!!     stack = '"("update-ma")@/usr/share/gnome-shell/js/ui/runDialog.js:186
+Sep  1 11:00:31 fedora19 gnome-session[1056]: wrapper("update-ma")@/usr/share/gjs-1.0/lang.js:213
+Sep  1 11:00:31 fedora19 gnome-session[1056]: ("update-ma")@/usr/share/gnome-shell/js/ui/runDialog.js:193
+Sep  1 11:00:31 fedora19 gnome-session[1056]: wrapper("update-ma")@/usr/share/gjs-1.0/lang.js:213
+Sep  1 11:00:31 fedora19 gnome-session[1056]: ([object GObject_Object],[object GObject_Union])@/usr/share/gnome-shell/js/ui/runDialog.js:136
+Sep  1 11:00:31 fedora19 gnome-session[1056]: "'
+Sep  1 11:01:26 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 11:02:02 fedora19 gnome-session[1056]: 窗口管理器警告：Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1800003 (sogou_piny)
+Sep  1 11:02:02 fedora19 gnome-session[1056]: 窗口管理器警告：meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Sep  1 11:02:18 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 11:02:18 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 11:03:34 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 11:03:34 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 11:03:34 fedora19 dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 11:03:34 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 11:04:24 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 11:04:24 fedora19 dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 11:04:24 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 11:04:24 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 11:05:00 fedora19 yum[6619]: Installed: fcitx-libs-4.2.8-1.fc19.x86_64
+Sep  1 11:05:01 fedora19 yum[6619]: Installed: fcitx-data-4.2.8-1.fc19.noarch
+Sep  1 11:05:02 fedora19 yum[6619]: Installed: fcitx-gtk2-4.2.8-1.fc19.x86_64
+Sep  1 11:05:03 fedora19 yum[6619]: Installed: fcitx-4.2.8-1.fc19.x86_64
+Sep  1 11:05:04 fedora19 yum[6619]: Installed: fcitx-gtk3-4.2.8-1.fc19.x86_64
+Sep  1 11:05:09 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 11:05:09 fedora19 dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 11:05:09 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 11:05:09 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 11:06:06 fedora19 yum[6763]: Erased: fcitx-gtk2-4.2.8-1.fc19.x86_64
+Sep  1 11:06:07 fedora19 yum[6763]: Erased: fcitx-gtk3-4.2.8-1.fc19.x86_64
+Sep  1 11:06:07 fedora19 yum[6763]: Erased: fcitx-4.2.8-1.fc19.x86_64
+Sep  1 11:06:08 fedora19 yum[6763]: Erased: im-chooser-1.6.4-1.fc19.x86_64
+Sep  1 11:06:09 fedora19 yum[6763]: Erased: im-chooser-common-1.6.4-1.fc19.x86_64
+Sep  1 11:06:10 fedora19 yum[6763]: Erased: imsettings-gsettings-1.6.7-1.fc19.x86_64
+Sep  1 11:06:11 fedora19 yum[6763]: Erased: imsettings-1.6.7-1.fc19.x86_64
+Sep  1 11:06:11 fedora19 dbus-daemon[609]: dbus[609]: [system] Reloaded configuration
+Sep  1 11:06:11 fedora19 dbus[609]: [system] Reloaded configuration
+Sep  1 11:06:12 fedora19 yum[6763]: Erased: imsettings-libs-1.6.7-1.fc19.x86_64
+Sep  1 11:06:12 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 11:06:12 fedora19 dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 11:06:12 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 11:06:12 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 11:06:23 fedora19 yum[6792]: Installed: imsettings-libs-1.6.7-1.fc19.x86_64
+Sep  1 11:06:24 fedora19 yum[6792]: Installed: imsettings-gsettings-1.6.7-1.fc19.x86_64
+Sep  1 11:06:24 fedora19 yum[6792]: Installed: imsettings-1.6.7-1.fc19.x86_64
+Sep  1 11:06:24 fedora19 dbus-daemon[609]: dbus[609]: [system] Reloaded configuration
+Sep  1 11:06:24 fedora19 dbus[609]: [system] Reloaded configuration
+Sep  1 11:06:25 fedora19 yum[6792]: Installed: fcitx-gtk3-4.2.8-1.fc19.x86_64
+Sep  1 11:06:26 fedora19 yum[6792]: Installed: fcitx-gtk2-4.2.8-1.fc19.x86_64
+Sep  1 11:06:26 fedora19 yum[6792]: Installed: fcitx-4.2.8-1.fc19.x86_64
+Sep  1 11:06:27 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 11:06:27 fedora19 dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 11:06:27 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 11:06:27 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 11:06:45 fedora19 gnome-session[1056]: (gnome-session-properties:6831): GLib-GObject-WARNING **: g_object_set_valist: object class `GsmAppDialog' has no property named `allow-shrink'
+Sep  1 11:06:54 fedora19 gnome-session[1056]: (gnome-session-properties:6831): GLib-GObject-WARNING **: g_object_set_valist: object class `GsmAppDialog' has no property named `allow-shrink'
+Sep  1 11:07:50 fedora19 gnome-session[1056]: 窗口管理器警告：Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1800003 (sogou_piny)
+Sep  1 11:07:50 fedora19 gnome-session[1056]: 窗口管理器警告：meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Sep  1 11:08:22 fedora19 gnome-session[1056]: 窗口管理器警告：Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1800003 (sogou_piny)
+Sep  1 11:08:22 fedora19 gnome-session[1056]: 窗口管理器警告：meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Sep  1 11:08:29 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Sep  1 11:08:29 fedora19 dbus[609]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Sep  1 11:08:29 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Sep  1 11:08:29 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Sep  1 11:08:29 fedora19 systemd[1]: Starting Hostname Service...
+Sep  1 11:08:29 fedora19 systemd[1]: Started Hostname Service.
+Sep  1 11:17:25 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating via systemd: service name='org.freedesktop.locale1' unit='dbus-org.freedesktop.locale1.service'
+Sep  1 11:17:25 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.locale1'
+Sep  1 11:17:25 fedora19 dbus[609]: [system] Activating via systemd: service name='org.freedesktop.locale1' unit='dbus-org.freedesktop.locale1.service'
+Sep  1 11:17:25 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.locale1'
+Sep  1 11:17:25 fedora19 systemd[1]: Starting Locale Service...
+Sep  1 11:17:25 fedora19 systemd[1]: Started Locale Service.
+Sep  1 11:18:11 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 11:21:53 fedora19 gnome-session[1056]: 窗口管理器警告：Cannot bind "switch-input-source" to Delete: it needs a modifier such as Ctrl or Alt.
+Sep  1 11:21:53 fedora19 gnome-session[1056]: 窗口管理器警告：Cannot bind "switch-input-source" to Delete: it needs a modifier such as Ctrl or Alt.
+Sep  1 11:22:46 fedora19 gnome-session[1056]: (gnome-settings-daemon:1454): keyboard-plugin-WARNING **: Couldn't upload new XKB keyboard description
+Sep  1 11:27:03 fedora19 gnome-session[1056]: cleanUp: /home/hardy/.mozilla/firefox/ajgw0mq3.default/epub/6
+Sep  1 11:27:03 fedora19 gnome-session[1056]: cleanUp: /home/hardy/.mozilla/firefox/ajgw0mq3.default/epub/16
+Sep  1 11:27:03 fedora19 gnome-session[1056]: cleanUp: /home/hardy/.mozilla/firefox/ajgw0mq3.default/epub/19
+Sep  1 11:27:03 fedora19 gnome-session[1056]: cleanUp: /home/hardy/.mozilla/firefox/ajgw0mq3.default/epub/3
+Sep  1 11:27:03 fedora19 gnome-session[1056]: cleanUp: /home/hardy/.mozilla/firefox/ajgw0mq3.default/epub/1
+Sep  1 11:27:03 fedora19 gnome-session[1056]: cleanUp: /home/hardy/.mozilla/firefox/ajgw0mq3.default/epub/13
+Sep  1 11:27:03 fedora19 gnome-session[1056]: cleanUp: /home/hardy/.mozilla/firefox/ajgw0mq3.default/epub/15
+Sep  1 11:27:03 fedora19 gnome-session[1056]: cleanUp: /home/hardy/.mozilla/firefox/ajgw0mq3.default/epub/2
+Sep  1 11:27:03 fedora19 gnome-session[1056]: cleanUp: /home/hardy/.mozilla/firefox/ajgw0mq3.default/epub/9
+Sep  1 11:27:03 fedora19 gnome-session[1056]: cleanUp: /home/hardy/.mozilla/firefox/ajgw0mq3.default/epub/7
+Sep  1 11:27:03 fedora19 gnome-session[1056]: cleanUp: /home/hardy/.mozilla/firefox/ajgw0mq3.default/epub/4
+Sep  1 11:27:03 fedora19 gnome-session[1056]: cleanUp: /home/hardy/.mozilla/firefox/ajgw0mq3.default/epub/10
+Sep  1 11:27:03 fedora19 gnome-session[1056]: cleanUp: /home/hardy/.mozilla/firefox/ajgw0mq3.default/epub/12
+Sep  1 11:27:03 fedora19 gnome-session[1056]: cleanUp: /home/hardy/.mozilla/firefox/ajgw0mq3.default/epub/17
+Sep  1 11:27:03 fedora19 gnome-session[1056]: cleanUp: /home/hardy/.mozilla/firefox/ajgw0mq3.default/epub/14
+Sep  1 11:27:03 fedora19 gnome-session[1056]: cleanUp: /home/hardy/.mozilla/firefox/ajgw0mq3.default/epub/11
+Sep  1 11:27:03 fedora19 gnome-session[1056]: cleanUp: /home/hardy/.mozilla/firefox/ajgw0mq3.default/epub/18
+Sep  1 11:27:03 fedora19 gnome-session[1056]: cleanUp: /home/hardy/.mozilla/firefox/ajgw0mq3.default/epub/5
+Sep  1 11:27:03 fedora19 gnome-session[1056]: cleanUp: /home/hardy/.mozilla/firefox/ajgw0mq3.default/epub/8
+Sep  1 11:46:26 fedora19 gnome-session[1056]: 窗口管理器警告：Log level 16: STACK_OP_RAISE_ABOVE: sibling window 0x2c00001 not in stack
+Sep  1 11:47:15 fedora19 gnome-session[1056]: Entering running state
+Sep  1 11:51:06 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 11:51:06 fedora19 dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 11:51:06 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 11:51:06 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 12:21:04 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Sep  1 12:21:04 fedora19 dbus[609]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Sep  1 12:21:04 fedora19 systemd[1]: Starting Fingerprint Authentication Daemon...
+Sep  1 12:21:04 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'net.reactivated.Fprint'
+Sep  1 12:21:04 fedora19 dbus[609]: [system] Successfully activated service 'net.reactivated.Fprint'
+Sep  1 12:21:04 fedora19 systemd[1]: Started Fingerprint Authentication Daemon.
+Sep  1 12:21:04 fedora19 fprintd[9957]: Launching FprintObject
+Sep  1 12:21:04 fedora19 fprintd[9957]: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Sep  1 12:21:04 fedora19 fprintd[9957]: ** Message: entering main loop
+Sep  1 12:21:13 fedora19 gnome-session[1056]: JS LOG: loading default theme (Adwaita)
+Sep  1 12:21:34 fedora19 fprintd[9957]: ** Message: No devices in use, exit
+Sep  1 12:30:48 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 12:31:13 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 12:31:54 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 12:32:02 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 12:33:09 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 12:34:59 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 12:35:28 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 12:35:34 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 12:35:56 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 12:36:05 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 12:36:43 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 12:37:04 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 12:37:37 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 12:37:43 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 12:38:14 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 12:38:37 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 12:38:38 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 12:39:19 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 12:39:24 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 12:43:00 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 12:48:31 fedora19 kernel: [10721.547579] usb 3-6: USB disconnect, device number 9
+Sep  1 12:48:37 fedora19 kernel: [10727.797599] usb 3-1: USB disconnect, device number 10
+Sep  1 12:48:46 fedora19 kernel: [10736.429919] usb 3-1: new low-speed USB device number 11 using xhci_hcd
+Sep  1 12:48:46 fedora19 kernel: [10736.611218] usb 3-1: New USB device found, idVendor=413c, idProduct=2105
+Sep  1 12:48:46 fedora19 kernel: [10736.611222] usb 3-1: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+Sep  1 12:48:46 fedora19 kernel: [10736.611224] usb 3-1: Product: Dell USB Keyboard
+Sep  1 12:48:46 fedora19 kernel: [10736.611225] usb 3-1: Manufacturer: Dell
+Sep  1 12:48:46 fedora19 kernel: [10736.611433] usb 3-1: ep 0x81 - rounding interval to 128 microframes, ep desc says 192 microframes
+Sep  1 12:48:46 fedora19 kernel: [10736.628130] input: Dell Dell USB Keyboard as /devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/0003:413C:2105.0006/input/input20
+Sep  1 12:48:46 fedora19 kernel: [10736.628381] hid-generic 0003:413C:2105.0006: input,hidraw0: USB HID v1.10 Keyboard [Dell Dell USB Keyboard] on usb-0000:00:14.0-1/input0
+Sep  1 12:48:46 fedora19 mtp-probe: checking bus 3, device 11: "/sys/devices/pci0000:00/0000:00:14.0/usb3/3-1"
+Sep  1 12:48:46 fedora19 mtp-probe: bus: 3, device: 11 was not an MTP device
+Sep  1 12:48:46 fedora19 gnome-session[1056]: (gnome-settings-daemon:1454): keyboard-plugin-WARNING **: Couldn't upload new XKB keyboard description
+Sep  1 12:48:51 fedora19 kernel: [10741.739763] usb 3-6: new low-speed USB device number 12 using xhci_hcd
+Sep  1 12:48:51 fedora19 kernel: [10741.907605] usb 3-6: New USB device found, idVendor=046d, idProduct=c077
+Sep  1 12:48:51 fedora19 kernel: [10741.907613] usb 3-6: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+Sep  1 12:48:51 fedora19 kernel: [10741.907617] usb 3-6: Product: USB Optical Mouse
+Sep  1 12:48:51 fedora19 kernel: [10741.907621] usb 3-6: Manufacturer: Logitech
+Sep  1 12:48:51 fedora19 kernel: [10741.908908] usb 3-6: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+Sep  1 12:48:51 fedora19 kernel: [10741.911707] input: Logitech USB Optical Mouse as /devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/0003:046D:C077.0007/input/input21
+Sep  1 12:48:51 fedora19 kernel: [10741.912366] hid-generic 0003:046D:C077.0007: input,hidraw1: USB HID v1.11 Mouse [Logitech USB Optical Mouse] on usb-0000:00:14.0-6/input0
+Sep  1 12:48:51 fedora19 mtp-probe: checking bus 3, device 12: "/sys/devices/pci0000:00/0000:00:14.0/usb3/3-6"
+Sep  1 12:48:51 fedora19 mtp-probe: bus: 3, device: 12 was not an MTP device
+Sep  1 12:51:06 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 12:51:06 fedora19 dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 12:51:06 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 12:51:06 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 13:09:12 fedora19 gnome-session[1056]: (dia:11573): GLib-WARNING **: A group named "gtk" is already part of this GOptionContext
+Sep  1 13:09:46 fedora19 gnome-session[1056]: (dia:11573): Gtk-CRITICAL **: IA__gtk_widget_get_direction: assertion `GTK_IS_WIDGET (widget)' failed
+Sep  1 13:09:46 fedora19 gnome-session[1056]: (dia:11573): Gtk-CRITICAL **: IA__gtk_widget_get_direction: assertion `GTK_IS_WIDGET (widget)' failed
+Sep  1 13:10:24 fedora19 gnome-session[1056]: (dia:11573): Gdk-CRITICAL **: IA__gdk_window_get_screen: assertion `GDK_IS_WINDOW (window)' failed
+Sep  1 13:10:24 fedora19 gnome-session[1056]: (dia:11573): Gtk-CRITICAL **: IA__gtk_drag_set_icon_pixmap: assertion `!mask || gdk_window_get_screen (mask) == screen' failed
+Sep  1 13:10:35 fedora19 gnome-session[1056]: (dia:11573): Gdk-CRITICAL **: IA__gdk_window_get_screen: assertion `GDK_IS_WINDOW (window)' failed
+Sep  1 13:10:35 fedora19 gnome-session[1056]: (dia:11573): Gtk-CRITICAL **: IA__gtk_drag_set_icon_pixmap: assertion `!mask || gdk_window_get_screen (mask) == screen' failed
+Sep  1 13:17:23 fedora19 gnome-session[1056]: (dia:11878): GLib-WARNING **: A group named "gtk" is already part of this GOptionContext
+Sep  1 13:17:31 fedora19 gnome-session[1056]: (dia:11878): Gdk-CRITICAL **: IA__gdk_window_get_screen: assertion `GDK_IS_WINDOW (window)' failed
+Sep  1 13:17:31 fedora19 gnome-session[1056]: (dia:11878): Gtk-CRITICAL **: IA__gtk_drag_set_icon_pixmap: assertion `!mask || gdk_window_get_screen (mask) == screen' failed
+Sep  1 13:17:36 fedora19 gnome-session[1056]: JS LOG: pushModal: invocation of begin_modal failed
+Sep  1 13:21:44 fedora19 gnome-session[1056]: (dia:11878): Gdk-CRITICAL **: IA__gdk_window_get_screen: assertion `GDK_IS_WINDOW (window)' failed
+Sep  1 13:21:44 fedora19 gnome-session[1056]: (dia:11878): Gtk-CRITICAL **: IA__gtk_drag_set_icon_pixmap: assertion `!mask || gdk_window_get_screen (mask) == screen' failed
+Sep  1 13:22:40 fedora19 gnome-session[1056]: (dia:11878): Gdk-CRITICAL **: IA__gdk_window_get_screen: assertion `GDK_IS_WINDOW (window)' failed
+Sep  1 13:22:40 fedora19 gnome-session[1056]: (dia:11878): Gtk-CRITICAL **: IA__gtk_drag_set_icon_pixmap: assertion `!mask || gdk_window_get_screen (mask) == screen' failed
+Sep  1 13:22:42 fedora19 gnome-session[1056]: (dia:11878): Gdk-CRITICAL **: IA__gdk_window_get_screen: assertion `GDK_IS_WINDOW (window)' failed
+Sep  1 13:22:42 fedora19 gnome-session[1056]: (dia:11878): Gtk-CRITICAL **: IA__gtk_drag_set_icon_pixmap: assertion `!mask || gdk_window_get_screen (mask) == screen' failed
+Sep  1 13:40:49 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Sep  1 13:40:49 fedora19 dbus[609]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Sep  1 13:40:49 fedora19 systemd[1]: Starting Hostname Service...
+Sep  1 13:40:49 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Sep  1 13:40:49 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Sep  1 13:40:49 fedora19 systemd[1]: Started Hostname Service.
+Sep  1 13:40:49 fedora19 gnome-session[1056]: (nautilus:12648): GnomeDesktop-WARNING **: Unable to create loader for mime type application/vnd.oasis.opendocument.text: 无法识别的图像文件格式
+Sep  1 13:40:50 fedora19 gnome-session[1056]: (nautilus:12648): GnomeDesktop-WARNING **: Error creating thumbnail for file:///home/hardy/cds-%E6%B5%81%E9%87%8F%E7%BB%9F%E8%AE%A1%E9%9B%86%E4%B8%AD%E5%B1%95%E7%A4%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.odt: 无法识别的图像文件格式
+Sep  1 13:51:06 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 13:51:06 fedora19 dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 13:51:06 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 13:51:06 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 14:27:24 fedora19 kernel: [16661.101307] perf samples too long (2575 > 2500), lowering kernel.perf_event_max_sample_rate to 50000
+Sep  1 14:28:52 fedora19 gnome-session[1056]: (nautilus:12648): GnomeDesktop-WARNING **: Unable to create loader for mime type application/vnd.oasis.opendocument.graphics: 无法识别的图像文件格式
+Sep  1 14:28:52 fedora19 gnome-session[1056]: (nautilus:12648): GnomeDesktop-WARNING **: Error creating thumbnail for file:///home/hardy/%E9%9B%86%E4%B8%AD%E8%AE%BF%E9%97%AE.odg: 无法识别的图像文件格式
+Sep  1 14:29:10 fedora19 gnome-session[1056]: (nautilus:12648): GnomeDesktop-WARNING **: Unable to create loader for mime type application/vnd.oasis.opendocument.graphics: 无法识别的图像文件格式
+Sep  1 14:29:10 fedora19 gnome-session[1056]: (nautilus:12648): GnomeDesktop-WARNING **: Error creating thumbnail for file:///home/hardy/%E8%83%8C%E6%99%AF%E8%AE%BF%E9%97%AE.odg: 无法识别的图像文件格式
+Sep  1 14:38:43 fedora19 colord: device removed: xrandr-Dell Inc.-DELL U2412M-3W9XD3452NCL
+Sep  1 14:38:43 fedora19 kernel: [17340.992104] usb 3-1: USB disconnect, device number 11
+Sep  1 14:39:01 fedora19 systemd-logind[588]: Lid opened.
+Sep  1 14:39:01 fedora19 kernel: [17358.439211] i915 0000:00:02.0: BAR 6: [??? 0x00000000 flags 0x2] has bogus alignment
+Sep  1 14:39:01 fedora19 kernel: [17358.439225] pci 0000:00:00.0: no hotplug settings from platform
+Sep  1 14:39:01 fedora19 kernel: [17358.439227] pci 0000:00:00.0: using default PCI settings
+Sep  1 14:39:01 fedora19 kernel: [17358.439233] pcieport 0000:00:01.0: no hotplug settings from platform
+Sep  1 14:39:01 fedora19 kernel: [17358.439238] nouveau 0000:01:00.0: Max Payload Size 16384, but upstream 0000:00:01.0 set to 256; if necessary, use "pci=pcie_bus_safe" and report a bug
+Sep  1 14:39:01 fedora19 kernel: [17358.439244] nouveau 0000:01:00.0: no hotplug settings from platform
+Sep  1 14:39:01 fedora19 kernel: [17358.439247] i915 0000:00:02.0: no hotplug settings from platform
+Sep  1 14:39:01 fedora19 kernel: [17358.439249] i915 0000:00:02.0: using default PCI settings
+Sep  1 14:39:01 fedora19 kernel: [17358.439255] snd_hda_intel 0000:00:03.0: no hotplug settings from platform
+Sep  1 14:39:01 fedora19 kernel: [17358.439258] xhci_hcd 0000:00:14.0: no hotplug settings from platform
+Sep  1 14:39:01 fedora19 kernel: [17358.439260] xhci_hcd 0000:00:14.0: using default PCI settings
+Sep  1 14:39:01 fedora19 kernel: [17358.439273] mei_me 0000:00:16.0: no hotplug settings from platform
+Sep  1 14:39:01 fedora19 kernel: [17358.439274] mei_me 0000:00:16.0: using default PCI settings
+Sep  1 14:39:01 fedora19 kernel: [17358.439287] ehci-pci 0000:00:1a.0: no hotplug settings from platform
+Sep  1 14:39:01 fedora19 kernel: [17358.439288] ehci-pci 0000:00:1a.0: using default PCI settings
+Sep  1 14:39:01 fedora19 kernel: [17358.439302] snd_hda_intel 0000:00:1b.0: no hotplug settings from platform
+Sep  1 14:39:01 fedora19 kernel: [17358.439305] pcieport 0000:00:1c.0: no hotplug settings from platform
+Sep  1 14:39:01 fedora19 kernel: [17358.439309] pcieport 0000:00:1c.2: no hotplug settings from platform
+Sep  1 14:39:01 fedora19 kernel: [17358.439363] rtsx_pci 0000:03:00.0: no hotplug settings from platform
+Sep  1 14:39:01 fedora19 kernel: [17358.439366] pcieport 0000:00:1c.3: no hotplug settings from platform
+Sep  1 14:39:01 fedora19 kernel: [17358.439419] r8168 0000:04:00.0: no hotplug settings from platform
+Sep  1 14:39:01 fedora19 kernel: [17358.439423] pcieport 0000:00:1c.4: no hotplug settings from platform
+Sep  1 14:39:01 fedora19 kernel: [17358.439477] rtl8723be 0000:05:00.0: no hotplug settings from platform
+Sep  1 14:39:01 fedora19 kernel: [17358.439481] ehci-pci 0000:00:1d.0: no hotplug settings from platform
+Sep  1 14:39:01 fedora19 kernel: [17358.439482] ehci-pci 0000:00:1d.0: using default PCI settings
+Sep  1 14:39:01 fedora19 kernel: [17358.439491] lpc_ich 0000:00:1f.0: no hotplug settings from platform
+Sep  1 14:39:01 fedora19 kernel: [17358.439493] lpc_ich 0000:00:1f.0: using default PCI settings
+Sep  1 14:39:01 fedora19 kernel: [17358.439502] ahci 0000:00:1f.2: no hotplug settings from platform
+Sep  1 14:39:01 fedora19 kernel: [17358.439504] ahci 0000:00:1f.2: using default PCI settings
+Sep  1 14:39:01 fedora19 kernel: [17358.439512] i801_smbus 0000:00:1f.3: no hotplug settings from platform
+Sep  1 14:39:01 fedora19 kernel: [17358.439514] i801_smbus 0000:00:1f.3: using default PCI settings
+Sep  1 14:39:18 fedora19 kernel: [17376.106599] usb 3-1: new high-speed USB device number 13 using xhci_hcd
+Sep  1 14:39:18 fedora19 kernel: [17376.272616] usb 3-1: New USB device found, idVendor=05ac, idProduct=12a8
+Sep  1 14:39:18 fedora19 kernel: [17376.272620] usb 3-1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Sep  1 14:39:18 fedora19 kernel: [17376.272622] usb 3-1: Product: iPhone
+Sep  1 14:39:18 fedora19 kernel: [17376.272623] usb 3-1: Manufacturer: Apple Inc.
+Sep  1 14:39:18 fedora19 kernel: [17376.272624] usb 3-1: SerialNumber: 1917ce672433518b9b3d5f5572e0aee6b785a56d
+Sep  1 14:39:18 fedora19 kernel: [17376.273180] usb 3-1: ep 0x2 - rounding interval to 8 microframes, ep desc says 10 microframes
+Sep  1 14:39:18 fedora19 kernel: [17376.273184] usb 3-1: ep 0x81 - rounding interval to 8 microframes, ep desc says 10 microframes
+Sep  1 14:39:18 fedora19 mtp-probe: checking bus 3, device 13: "/sys/devices/pci0000:00/0000:00:14.0/usb3/3-1"
+Sep  1 14:39:18 fedora19 kernel: [17376.304082] usb 3-1: ep 0x2 - rounding interval to 8 microframes, ep desc says 10 microframes
+Sep  1 14:39:18 fedora19 kernel: [17376.304086] usb 3-1: ep 0x81 - rounding interval to 8 microframes, ep desc says 10 microframes
+Sep  1 14:39:19 fedora19 mtp-probe: bus: 3, device: 13 was not an MTP device
+Sep  1 14:39:19 fedora19 kernel: [17376.731215] ipheth 3-1:4.2: Apple iPhone USB Ethernet device attached
+Sep  1 14:39:19 fedora19 colord: Device added: sysfs-Apple_Inc.-iPhone
+Sep  1 14:39:19 fedora19 upowerd[1470]: usbmuxd_get_device_list: error opening socket!
+Sep  1 14:39:19 fedora19 systemd[1]: Starting iOS USB Muxer...
+Sep  1 14:39:19 fedora19 systemd[1]: Started iOS USB Muxer.
+Sep  1 14:39:20 fedora19 NetworkManager[689]: <warn> failed to allocate link cache: (-12) Object not found
+Sep  1 14:39:20 fedora19 NetworkManager[689]: <info> (enp0s20u1c4i2): carrier is OFF
+Sep  1 14:39:20 fedora19 NetworkManager[689]: <info> (enp0s20u1c4i2): new Ethernet device (driver: 'ipheth' ifindex: 5)
+Sep  1 14:39:20 fedora19 NetworkManager[689]: <info> (enp0s20u1c4i2): exported as /org/freedesktop/NetworkManager/Devices/3
+Sep  1 14:39:20 fedora19 NetworkManager[689]: <info> (enp0s20u1c4i2): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+Sep  1 14:39:20 fedora19 NetworkManager[689]: <info> (enp0s20u1c4i2): bringing up device.
+Sep  1 14:39:20 fedora19 NetworkManager[689]: <info> (enp0s20u1c4i2): preparing device.
+Sep  1 14:39:20 fedora19 NetworkManager[689]: <info> (enp0s20u1c4i2): deactivating device (reason 'managed') [2]
+Sep  1 14:39:20 fedora19 kernel: [17377.339164] IPv6: ADDRCONF(NETDEV_UP): enp0s20u1c4i2: link is not ready
+Sep  1 14:39:21 fedora19 gpod: Client creation/handshake failed: -14
+Sep  1 14:39:25 fedora19 kernel: [17382.805928] ACPI Warning: \_SB_.PCI0.PEG_.VID_._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20131218/nsarguments-95)
+Sep  1 14:39:25 fedora19 kernel: [17382.806427] ACPI Warning: \_SB_.PCI0.PEG_.VID_._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20131218/nsarguments-95)
+Sep  1 14:39:28 fedora19 gnome-session[1056]: JS LOG: Unable to mount volume lloy: Gio.IOErrorEnum: 权限不足
+Sep  1 14:40:18 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 14:51:06 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 14:51:06 fedora19 dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 14:51:06 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 14:51:06 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 14:56:42 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 59345 on interface 'p3p1.0'
+Sep  1 14:56:43 fedora19 avahi-daemon[607]: Invalid legacy unicast query packet.
+Sep  1 14:56:43 fedora19 avahi-daemon[607]: Invalid legacy unicast query packet.
+Sep  1 14:56:43 fedora19 avahi-daemon[607]: Invalid legacy unicast query packet.
+Sep  1 14:56:43 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 59345 on interface 'p3p1.0'
+Sep  1 14:56:43 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 59345 on interface 'p3p1.0'
+Sep  1 14:56:44 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 59345 on interface 'p3p1.0'
+Sep  1 14:56:45 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 59345 on interface 'p3p1.0'
+Sep  1 14:56:46 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 59345 on interface 'p3p1.0'
+Sep  1 15:06:41 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 57845 on interface 'p3p1.0'
+Sep  1 15:06:42 fedora19 avahi-daemon[607]: Invalid legacy unicast query packet.
+Sep  1 15:06:42 fedora19 avahi-daemon[607]: Invalid legacy unicast query packet.
+Sep  1 15:06:42 fedora19 avahi-daemon[607]: Invalid legacy unicast query packet.
+Sep  1 15:06:42 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 57845 on interface 'p3p1.0'
+Sep  1 15:06:42 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 57845 on interface 'p3p1.0'
+Sep  1 15:06:43 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 57845 on interface 'p3p1.0'
+Sep  1 15:06:45 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 57845 on interface 'p3p1.0'
+Sep  1 15:06:45 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 57845 on interface 'p3p1.0'
+Sep  1 15:29:33 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 60157 on interface 'p3p1.0'
+Sep  1 15:30:21 fedora19 gnome-session[1056]: 窗口管理器警告：Log level 16: Called enable_unredirect_for_screen while unredirection is enabled.
+Sep  1 15:30:47 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 60158 on interface 'p3p1.0'
+Sep  1 15:30:47 fedora19 avahi-daemon[607]: Invalid legacy unicast query packet.
+Sep  1 15:30:47 fedora19 avahi-daemon[607]: Invalid legacy unicast query packet.
+Sep  1 15:30:48 fedora19 avahi-daemon[607]: Invalid legacy unicast query packet.
+Sep  1 15:30:48 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 60158 on interface 'p3p1.0'
+Sep  1 15:30:48 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 60158 on interface 'p3p1.0'
+Sep  1 15:30:49 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 60158 on interface 'p3p1.0'
+Sep  1 15:30:50 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 60158 on interface 'p3p1.0'
+Sep  1 15:30:51 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 60158 on interface 'p3p1.0'
+Sep  1 15:44:56 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 64284 on interface 'p3p1.0'
+Sep  1 15:44:56 fedora19 avahi-daemon[607]: Invalid legacy unicast query packet.
+Sep  1 15:44:56 fedora19 avahi-daemon[607]: Invalid legacy unicast query packet.
+Sep  1 15:44:56 fedora19 avahi-daemon[607]: Invalid legacy unicast query packet.
+Sep  1 15:44:56 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 64284 on interface 'p3p1.0'
+Sep  1 15:44:57 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 64284 on interface 'p3p1.0'
+Sep  1 15:44:57 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 64284 on interface 'p3p1.0'
+Sep  1 15:44:59 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 64284 on interface 'p3p1.0'
+Sep  1 15:44:59 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 64284 on interface 'p3p1.0'
+Sep  1 15:49:08 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 15:51:06 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 15:51:06 fedora19 dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 15:51:06 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 15:51:06 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 16:19:17 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Sep  1 16:19:17 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Sep  1 16:19:17 fedora19 dbus[609]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Sep  1 16:19:17 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Sep  1 16:19:17 fedora19 systemd[1]: Starting Hostname Service...
+Sep  1 16:19:17 fedora19 systemd[1]: Started Hostname Service.
+Sep  1 16:19:22 fedora19 gnome-session[1056]: 窗口管理器警告：Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3000047 (LibreOffic)
+Sep  1 16:19:22 fedora19 gnome-session[1056]: 窗口管理器警告：meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Sep  1 16:29:07 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Sep  1 16:29:07 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Sep  1 16:29:07 fedora19 dbus[609]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Sep  1 16:29:07 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Sep  1 16:29:07 fedora19 systemd[1]: Starting Hostname Service...
+Sep  1 16:29:07 fedora19 systemd[1]: Started Hostname Service.
+Sep  1 16:33:14 fedora19 kernel: [24219.270862] usb 3-1: USB disconnect, device number 13
+Sep  1 16:33:14 fedora19 avahi-daemon[607]: Withdrawing workstation service for enp0s20u1c4i2.
+Sep  1 16:33:14 fedora19 kernel: [24219.282209] ipheth 3-1:4.2: Apple iPhone USB Ethernet now disconnected
+Sep  1 16:33:14 fedora19 NetworkManager[689]: <info> (enp0s20u1c4i2): device state change: unavailable -> unmanaged (reason 'removed') [20 10 36]
+Sep  1 16:33:14 fedora19 NetworkManager[689]: <info> (enp0s20u1c4i2): cleaning up...
+Sep  1 16:33:14 fedora19 NetworkManager[689]: <warn> (5) failed to find interface name for index
+Sep  1 16:33:14 fedora19 NetworkManager[689]: (nm-system.c:766):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+Sep  1 16:33:14 fedora19 NetworkManager[689]: <error> [1409560394.477064] [nm-system.c:768] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+Sep  1 16:33:14 fedora19 colord: device removed: sysfs-Apple_Inc.-iPhone
+Sep  1 16:45:53 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Sep  1 16:45:54 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'net.reactivated.Fprint'
+Sep  1 16:45:54 fedora19 dbus[609]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Sep  1 16:45:54 fedora19 dbus[609]: [system] Successfully activated service 'net.reactivated.Fprint'
+Sep  1 16:45:54 fedora19 systemd[1]: Starting Fingerprint Authentication Daemon...
+Sep  1 16:45:54 fedora19 systemd[1]: Started Fingerprint Authentication Daemon.
+Sep  1 16:45:54 fedora19 fprintd[18293]: Launching FprintObject
+Sep  1 16:45:54 fedora19 fprintd[18293]: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Sep  1 16:45:54 fedora19 fprintd[18293]: ** Message: entering main loop
+Sep  1 16:45:58 fedora19 gnome-session[1056]: JS LOG: loading default theme (Adwaita)
+Sep  1 16:46:23 fedora19 fprintd[18293]: ** Message: No devices in use, exit
+Sep  1 16:49:07 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Sep  1 16:49:07 fedora19 dbus[609]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Sep  1 16:49:07 fedora19 systemd[1]: Starting Hostname Service...
+Sep  1 16:49:07 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Sep  1 16:49:07 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Sep  1 16:49:07 fedora19 systemd[1]: Started Hostname Service.
+Sep  1 16:51:06 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 16:51:06 fedora19 dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 16:51:06 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 16:51:06 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 16:58:17 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Sep  1 16:58:18 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'net.reactivated.Fprint'
+Sep  1 16:58:18 fedora19 dbus[609]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Sep  1 16:58:18 fedora19 dbus[609]: [system] Successfully activated service 'net.reactivated.Fprint'
+Sep  1 16:58:18 fedora19 systemd[1]: Starting Fingerprint Authentication Daemon...
+Sep  1 16:58:18 fedora19 systemd[1]: Started Fingerprint Authentication Daemon.
+Sep  1 16:58:18 fedora19 fprintd[18422]: Launching FprintObject
+Sep  1 16:58:18 fedora19 fprintd[18422]: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Sep  1 16:58:18 fedora19 fprintd[18422]: ** Message: entering main loop
+Sep  1 16:58:24 fedora19 gnome-session[1056]: JS LOG: loading default theme (Adwaita)
+Sep  1 16:58:47 fedora19 fprintd[18422]: ** Message: No devices in use, exit
+Sep  1 17:29:02 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 17:29:02 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  1 17:51:06 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 17:51:06 fedora19 dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 17:51:06 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 17:51:06 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  1 18:00:48 fedora19 systemd-logind[588]: Lid closed.
+Sep  1 18:00:48 fedora19 systemd-logind[588]: Suspending...
+Sep  1 18:00:49 fedora19 NetworkManager[689]: <info> sleep requested (sleeping: no  enabled: yes)
+Sep  1 18:00:49 fedora19 NetworkManager[689]: <info> sleeping or disabling...
+Sep  1 18:00:49 fedora19 NetworkManager[689]: <info> (p3p1): device state change: activated -> unmanaged (reason 'sleeping') [100 10 37]
+Sep  1 18:00:49 fedora19 NetworkManager[689]: <info> (p3p1): deactivating device (reason 'sleeping') [37]
+Sep  1 18:00:49 fedora19 avahi-daemon[607]: Withdrawing address record for 10.131.4.43 on p3p1.
+Sep  1 18:00:49 fedora19 avahi-daemon[607]: Leaving mDNS multicast group on interface p3p1.IPv4 with address 10.131.4.43.
+Sep  1 18:00:49 fedora19 avahi-daemon[607]: Interface p3p1.IPv4 no longer relevant for mDNS.
+Sep  1 18:00:49 fedora19 NetworkManager[689]: <info> (p3p1): cleaning up...
+Sep  1 18:00:49 fedora19 NetworkManager[689]: <info> (p3p1): taking down device.
+Sep  1 18:00:49 fedora19 avahi-daemon[607]: Withdrawing address record for fe80::2ad2:44ff:fe3e:3468 on p3p1.
+Sep  1 18:00:49 fedora19 NetworkManager[689]: <info> NetworkManager state is now ASLEEP
+Sep  1 18:00:49 fedora19 NetworkManager[689]: <info> (wlp5s0): device state change: unavailable -> unmanaged (reason 'sleeping') [20 10 37]
+Sep  1 18:00:49 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Sep  1 18:00:49 fedora19 dbus[609]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Sep  1 18:00:49 fedora19 systemd[1]: Starting Network Manager Script Dispatcher Service...
+Sep  1 18:00:49 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Sep  1 18:00:49 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Sep  1 18:00:49 fedora19 systemd[1]: Started Network Manager Script Dispatcher Service.
+Sep  1 18:00:51 fedora19 kernel: [29482.531042] usb 3-6: USB disconnect, device number 12
+Sep  1 18:00:53 fedora19 systemd-logind[588]: Delay lock is active but inhibitor timeout is reached.
+Sep  1 18:00:54 fedora19 systemd[1]: Starting Sleep.
+Sep  1 18:00:54 fedora19 systemd[1]: Reached target Sleep.
+Sep  1 18:00:55 fedora19 systemd[1]: Starting Suspend...
+Sep  1 18:00:55 fedora19 systemd-sleep[19085]: Suspending system...
+Sep  1 18:00:55 fedora19 kernel: [29484.968271] PM: Syncing filesystems ... done.
+Sep  2 09:08:51 fedora19 kernel: [29486.228547] Freezing user space processes ... (elapsed 0.001 seconds) done.
+Sep  2 09:08:51 fedora19 kernel: [29486.230126] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+Sep  2 09:08:51 fedora19 kernel: [29486.231302] Suspending console(s) (use no_console_suspend to debug)
+Sep  2 09:08:51 fedora19 kernel: [29486.673282] sd 0:0:0:0: [sda] Synchronizing SCSI cache
+Sep  2 09:08:51 fedora19 kernel: [29486.673419] sd 0:0:0:0: [sda] Stopping disk
+Sep  2 09:08:51 fedora19 kernel: [29486.725415] nouveau  [     DRM] evicting buffers...
+Sep  2 09:08:51 fedora19 kernel: [29486.725417] nouveau  [     DRM] waiting for kernel channels to go idle...
+Sep  2 09:08:51 fedora19 kernel: [29486.725528] nouveau  [     DRM] suspending client object trees...
+Sep  2 09:08:51 fedora19 kernel: [29486.726285] nouveau  [     DRM] suspending kernel object tree...
+Sep  2 09:08:51 fedora19 kernel: [29487.524112] PM: suspend of devices complete after 1008.164 msecs
+Sep  2 09:08:51 fedora19 kernel: [29487.534979] PM: late suspend of devices complete after 10.852 msecs
+Sep  2 09:08:51 fedora19 kernel: [29487.546028] ehci-pci 0000:00:1d.0: System wakeup enabled by ACPI
+Sep  2 09:08:51 fedora19 kernel: [29487.547060] ehci-pci 0000:00:1a.0: System wakeup enabled by ACPI
+Sep  2 09:08:51 fedora19 kernel: [29487.548942] xhci_hcd 0000:00:14.0: System wakeup enabled by ACPI
+Sep  2 09:08:51 fedora19 kernel: [29487.549963] PM: noirq suspend of devices complete after 14.966 msecs
+Sep  2 09:08:51 fedora19 kernel: [29487.550200] ACPI: Preparing to enter system sleep state S3
+Sep  2 09:08:51 fedora19 kernel: [29487.557928] PM: Saving platform NVS memory
+Sep  2 09:08:51 fedora19 kernel: [29487.558568] Disabling non-boot CPUs ...
+Sep  2 09:08:51 fedora19 kernel: [29487.559862] kvm: disabling virtualization on CPU1
+Sep  2 09:08:51 fedora19 kernel: [29487.560127] smpboot: CPU 1 is now offline
+Sep  2 09:08:51 fedora19 kernel: [29487.561652] kvm: disabling virtualization on CPU2
+Sep  2 09:08:51 fedora19 kernel: [29487.561899] smpboot: CPU 2 is now offline
+Sep  2 09:08:51 fedora19 kernel: [29487.563338] kvm: disabling virtualization on CPU3
+Sep  2 09:08:51 fedora19 kernel: [29487.563343] smpboot: CPU 3 is now offline
+Sep  2 09:08:51 fedora19 kernel: [29487.564619] ACPI: Low-level resume complete
+Sep  2 09:08:51 fedora19 kernel: [29487.564652] PM: Restoring platform NVS memory
+Sep  2 09:08:51 fedora19 kernel: [29487.565089] microcode: CPU0 sig=0x306c3, pf=0x10, revision=0x17
+Sep  2 09:08:51 fedora19 kernel: [29487.565123] Enabling non-boot CPUs ...
+Sep  2 09:08:51 fedora19 kernel: [29487.565155] x86: Booting SMP configuration:
+Sep  2 09:08:51 fedora19 kernel: [29487.565156] smpboot: Booting Node 0 Processor 1 APIC 0x1
+Sep  2 09:08:51 fedora19 kernel: [29487.577271] kvm: enabling virtualization on CPU1
+Sep  2 09:08:51 fedora19 kernel: [29487.579467] Intel pstate controlling: cpu 1
+Sep  2 09:08:51 fedora19 kernel: [29487.579508] microcode: CPU1 sig=0x306c3, pf=0x10, revision=0x12
+Sep  2 09:08:51 fedora19 kernel: [29487.581547] microcode: CPU1 updated to revision 0x17, date = 2013-08-16
+Sep  2 09:08:51 fedora19 kernel: [29487.581555] CPU1 is up
+Sep  2 09:08:51 fedora19 kernel: [29487.581571] smpboot: Booting Node 0 Processor 2 APIC 0x2
+Sep  2 09:08:51 fedora19 kernel: [29487.593632] kvm: enabling virtualization on CPU2
+Sep  2 09:08:51 fedora19 kernel: [29487.595905] Intel pstate controlling: cpu 2
+Sep  2 09:08:51 fedora19 kernel: [29487.595942] microcode: CPU2 sig=0x306c3, pf=0x10, revision=0x12
+Sep  2 09:08:51 fedora19 kernel: [29487.596995] microcode: CPU2 updated to revision 0x17, date = 2013-08-16
+Sep  2 09:08:51 fedora19 kernel: [29487.596998] CPU2 is up
+Sep  2 09:08:51 fedora19 kernel: [29487.597012] smpboot: Booting Node 0 Processor 3 APIC 0x3
+Sep  2 09:08:51 fedora19 kernel: [29487.609070] kvm: enabling virtualization on CPU3
+Sep  2 09:08:51 fedora19 kernel: [29487.611324] Intel pstate controlling: cpu 3
+Sep  2 09:08:51 fedora19 kernel: [29487.611361] microcode: CPU3 sig=0x306c3, pf=0x10, revision=0x17
+Sep  2 09:08:51 fedora19 kernel: [29487.611364] CPU3 is up
+Sep  2 09:08:51 fedora19 kernel: [29487.614782] ACPI: Waking up from system sleep state S3
+Sep  2 09:08:51 fedora19 kernel: [29487.686547] xhci_hcd 0000:00:14.0: System wakeup disabled by ACPI
+Sep  2 09:08:51 fedora19 kernel: [29487.688548] ehci-pci 0000:00:1a.0: System wakeup disabled by ACPI
+Sep  2 09:08:51 fedora19 kernel: [29487.690549] ehci-pci 0000:00:1d.0: System wakeup disabled by ACPI
+Sep  2 09:08:51 fedora19 kernel: [29487.734714] PM: noirq resume of devices complete after 61.134 msecs
+Sep  2 09:08:51 fedora19 kernel: [29487.734819] PM: early resume of devices complete after 0.083 msecs
+Sep  2 09:08:51 fedora19 kernel: [29487.735105] nouveau  [     DRM] re-enabling device...
+Sep  2 09:08:51 fedora19 kernel: [29487.735131] nouveau  [     DRM] resuming kernel object tree...
+Sep  2 09:08:51 fedora19 kernel: [29487.735140] nouveau  [   VBIOS][0000:01:00.0] running init tables
+Sep  2 09:08:51 fedora19 kernel: [29487.735595] rtlwifi: wireless switch is on
+Sep  2 09:08:51 fedora19 kernel: [29487.856513] nouveau  [     CLK][0000:01:00.0] --: core 270 MHz memory 324 MHz 
+Sep  2 09:08:51 fedora19 kernel: [29487.857182] nouveau  [     DRM] resuming client object trees...
+Sep  2 09:08:51 fedora19 kernel: [29488.042901] ata3: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+Sep  2 09:08:51 fedora19 kernel: [29488.044060] usb 3-12: reset high-speed USB device number 5 using xhci_hcd
+Sep  2 09:08:51 fedora19 kernel: [29488.044069] xhci_hcd 0000:00:14.0: Setup ERROR: setup context command for slot 4.
+Sep  2 09:08:51 fedora19 kernel: [29488.046261] ata3.00: configured for UDMA/133
+Sep  2 09:08:51 fedora19 kernel: [29488.197095] usb 3-12: reset high-speed USB device number 5 using xhci_hcd
+Sep  2 09:08:51 fedora19 kernel: [29488.197121] xhci_hcd 0000:00:14.0: Setup ERROR: setup context command for slot 4.
+Sep  2 09:08:51 fedora19 kernel: [29488.350272] usb 3-12: reset high-speed USB device number 5 using xhci_hcd
+Sep  2 09:08:51 fedora19 kernel: [29488.408353] xhci_hcd 0000:00:14.0: xHCI xhci_drop_endpoint called with disabled ep ffff8800a6476540
+Sep  2 09:08:51 fedora19 kernel: [29488.514695] usb 3-7: reset full-speed USB device number 4 using xhci_hcd
+Sep  2 09:08:51 fedora19 kernel: [29488.514793] xhci_hcd 0000:00:14.0: Setup ERROR: setup context command for slot 3.
+Sep  2 09:08:51 fedora19 kernel: [29488.667700] usb 3-7: reset full-speed USB device number 4 using xhci_hcd
+Sep  2 09:08:51 fedora19 kernel: [29488.667762] xhci_hcd 0000:00:14.0: Setup ERROR: setup context command for slot 3.
+Sep  2 09:08:51 fedora19 kernel: [29488.820933] usb 3-7: reset full-speed USB device number 4 using xhci_hcd
+Sep  2 09:08:51 fedora19 kernel: [29488.832206] usb 3-7: No LPM exit latency info found.  Power management will be impacted.
+Sep  2 09:08:51 fedora19 kernel: [29488.832578] xhci_hcd 0000:00:14.0: xHCI xhci_drop_endpoint called with disabled ep ffff8800373f0840
+Sep  2 09:08:51 fedora19 kernel: [29488.832580] xhci_hcd 0000:00:14.0: xHCI xhci_drop_endpoint called with disabled ep ffff8800373f0880
+Sep  2 09:08:51 fedora19 kernel: [29488.832581] xhci_hcd 0000:00:14.0: xHCI xhci_drop_endpoint called with disabled ep ffff8800373f08c0
+Sep  2 09:08:51 fedora19 kernel: [29488.832582] xhci_hcd 0000:00:14.0: xHCI xhci_drop_endpoint called with disabled ep ffff880137a04480
+Sep  2 09:08:51 fedora19 kernel: [29488.832583] xhci_hcd 0000:00:14.0: xHCI xhci_drop_endpoint called with disabled ep ffff880137a044c0
+Sep  2 09:08:51 fedora19 kernel: [29489.087092] [drm] Enabling RC6 states: RC6 on, RC6p off, RC6pp off
+Sep  2 09:08:51 fedora19 kernel: [29489.930032] ata1: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+Sep  2 09:08:51 fedora19 kernel: [29489.931067] ata1.00: ACPI cmd f5/00:00:00:00:00:a0 (SECURITY FREEZE LOCK) filtered out
+Sep  2 09:08:51 fedora19 kernel: [29489.933191] ata1.00: ACPI cmd f5/00:00:00:00:00:a0 (SECURITY FREEZE LOCK) filtered out
+Sep  2 09:08:51 fedora19 kernel: [29489.934110] ata1.00: configured for UDMA/133
+Sep  2 09:08:51 fedora19 kernel: [29489.934157] sd 0:0:0:0: [sda] Starting disk
+Sep  2 09:08:51 fedora19 kernel: [29489.961331] PM: resume of devices complete after 2224.064 msecs
+Sep  2 09:08:51 fedora19 kernel: [29489.962016] Restarting tasks ... done.
+Sep  2 09:08:51 fedora19 kernel: [29489.973736] video LNXVIDEO:00: Restoring backlight state
+Sep  2 09:08:51 fedora19 kernel: [29489.974210] video LNXVIDEO:01: Restoring backlight state
+Sep  2 09:08:51 fedora19 systemd[1]: Time has been changed
+Sep  2 09:08:51 fedora19 kernel: [29490.138250] IPv6: ADDRCONF(NETDEV_UP): p3p1: link is not ready
+Sep  2 09:08:51 fedora19 systemd-logind[588]: Lid opened.
+Sep  2 09:08:51 fedora19 systemd[1]: Service bluetooth.target is not needed anymore. Stopping.
+Sep  2 09:08:51 fedora19 systemd[1]: Stopping Bluetooth.
+Sep  2 09:08:51 fedora19 systemd[1]: Stopped target Bluetooth.
+Sep  2 09:08:51 fedora19 systemd[1]: Starting Bluetooth.
+Sep  2 09:08:51 fedora19 systemd[1]: Reached target Bluetooth.
+Sep  2 09:08:51 fedora19 systemd-sleep[19085]: System resumed.
+Sep  2 09:08:51 fedora19 systemd[1]: Started Suspend.
+Sep  2 09:08:51 fedora19 systemd[1]: Service sleep.target is not needed anymore. Stopping.
+Sep  2 09:08:51 fedora19 systemd[1]: Stopping Sleep.
+Sep  2 09:08:51 fedora19 bluetoothd[575]: bluetoothd[575]: Adapter /org/bluez/575/hci0 has been disabled
+Sep  2 09:08:51 fedora19 bluetoothd[575]: bluetoothd[575]: Unregister path: /org/bluez/575/hci0
+Sep  2 09:08:51 fedora19 bluetoothd[575]: bluetoothd[575]: Endpoint unregistered: sender=:1.44 path=/MediaEndpoint/A2DPSink
+Sep  2 09:08:51 fedora19 bluetoothd[575]: bluetoothd[575]: Endpoint unregistered: sender=:1.44 path=/MediaEndpoint/A2DPSource
+Sep  2 09:08:51 fedora19 bluetoothd[575]: bluetoothd[575]: Endpoint unregistered: sender=:1.44 path=/MediaEndpoint/HFPAG
+Sep  2 09:08:51 fedora19 bluetoothd[575]: bluetoothd[575]: Endpoint unregistered: sender=:1.44 path=/MediaEndpoint/HFPHS
+Sep  2 09:08:51 fedora19 bluetoothd[575]: bluetoothd[575]: Parsing /etc/bluetooth/serial.conf failed: No such file or directory
+Sep  2 09:08:51 fedora19 bluetoothd[575]: Adapter /org/bluez/575/hci0 has been disabled
+Sep  2 09:08:51 fedora19 bluetoothd[575]: Unregister path: /org/bluez/575/hci0
+Sep  2 09:08:51 fedora19 NetworkManager[689]: <info> wake requested (sleeping: yes  enabled: yes)
+Sep  2 09:08:51 fedora19 NetworkManager[689]: <info> waking up and re-enabling...
+Sep  2 09:08:51 fedora19 NetworkManager[689]: <info> WWAN now enabled by management service
+Sep  2 09:08:51 fedora19 NetworkManager[689]: <info> (p3p1): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+Sep  2 09:08:51 fedora19 NetworkManager[689]: <info> (p3p1): bringing up device.
+Sep  2 09:08:51 fedora19 bluetoothd[575]: Endpoint unregistered: sender=:1.44 path=/MediaEndpoint/A2DPSink
+Sep  2 09:08:51 fedora19 bluetoothd[575]: Endpoint unregistered: sender=:1.44 path=/MediaEndpoint/A2DPSource
+Sep  2 09:08:51 fedora19 bluetoothd[575]: Endpoint unregistered: sender=:1.44 path=/MediaEndpoint/HFPAG
+Sep  2 09:08:51 fedora19 bluetoothd[575]: Endpoint unregistered: sender=:1.44 path=/MediaEndpoint/HFPHS
+Sep  2 09:08:51 fedora19 bluetoothd[575]: Parsing /etc/bluetooth/serial.conf failed: No such file or directory
+Sep  2 09:08:51 fedora19 dbus[609]: [system] Rejected send message, 3 matched rules; type="error", sender=":1.44" (uid=1000 pid=1475 comm="/usr/bin/pulseaudio --start ") interface="(unset)" member="(unset)" error name="org.freedesktop.DBus.Error.UnknownMethod" requested_reply="0" destination=":1.0" (uid=0 pid=575 comm="/usr/sbin/bluetoothd -n ")
+Sep  2 09:08:51 fedora19 NetworkManager[689]: <info> (p3p1): preparing device.
+Sep  2 09:08:51 fedora19 dbus[609]: [system] Rejected send message, 3 matched rules; type="error", sender=":1.44" (uid=1000 pid=1475 comm="/usr/bin/pulseaudio --start ") interface="(unset)" member="(unset)" error name="org.freedesktop.DBus.Error.UnknownMethod" requested_reply="0" destination=":1.0" (uid=0 pid=575 comm="/usr/sbin/bluetoothd -n ")
+Sep  2 09:08:51 fedora19 NetworkManager[689]: <info> (p3p1): deactivating device (reason 'managed') [2]
+Sep  2 09:08:51 fedora19 dbus[609]: [system] Rejected send message, 3 matched rules; type="error", sender=":1.44" (uid=1000 pid=1475 comm="/usr/bin/pulseaudio --start ") interface="(unset)" member="(unset)" error name="org.freedesktop.DBus.Error.UnknownMethod" requested_reply="0" destination=":1.0" (uid=0 pid=575 comm="/usr/sbin/bluetoothd -n ")
+Sep  2 09:08:51 fedora19 dbus[609]: [system] Rejected send message, 3 matched rules; type="error", sender=":1.44" (uid=1000 pid=1475 comm="/usr/bin/pulseaudio --start ") interface="(unset)" member="(unset)" error name="org.freedesktop.DBus.Error.UnknownMethod" requested_reply="0" destination=":1.0" (uid=0 pid=575 comm="/usr/sbin/bluetoothd -n ")
+Sep  2 09:08:51 fedora19 NetworkManager[689]: <info> NetworkManager state is now DISCONNECTED
+Sep  2 09:08:51 fedora19 dbus[609]: [system] Rejected send message, 3 matched rules; type="error", sender=":1.52" (uid=1000 pid=1692 comm="/usr/bin/gnome-shell ") interface="(unset)" member="(unset)" error name="org.freedesktop.DBus.Error.UnknownMethod" requested_reply="0" destination=":1.0" (uid=0 pid=575 comm="/usr/sbin/bluetoothd -n ")
+Sep  2 09:08:51 fedora19 NetworkManager[689]: <info> (wlp5s0): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+Sep  2 09:08:51 fedora19 bluetoothd[575]: Adapter /org/bluez/575/hci0 has been enabled
+Sep  2 09:08:51 fedora19 NetworkManager[689]: <info> (wlp5s0): bringing up device.
+Sep  2 09:08:51 fedora19 NetworkManager[689]: <info> (wlp5s0): deactivating device (reason 'managed') [2]
+Sep  2 09:08:51 fedora19 bluetoothd[575]: Endpoint registered: sender=:1.44 path=/MediaEndpoint/HFPAG
+Sep  2 09:08:51 fedora19 bluetoothd[575]: Endpoint registered: sender=:1.44 path=/MediaEndpoint/HFPHS
+Sep  2 09:08:52 fedora19 bluetoothd[575]: Endpoint registered: sender=:1.44 path=/MediaEndpoint/A2DPSource
+Sep  2 09:08:52 fedora19 bluetoothd[575]: Endpoint registered: sender=:1.44 path=/MediaEndpoint/A2DPSink
+Sep  2 09:08:52 fedora19 bluetoothd[575]: Unknown command complete for opcode 19
+Sep  2 09:08:52 fedora19 bluetoothd[575]: hci0: Set Discoverable (0x0006) failed: Busy (0x0a)
+Sep  2 09:08:52 fedora19 gnome-session[1056]: Agent unregistration failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: Method "UnregisterAgent" with signature "o" on interface "org.bluez.Adapter" doesn't exist
+Sep  2 09:08:52 fedora19 gnome-session[1056]: 'g-io-error-quark'
+Sep  2 09:08:52 fedora19 dbus-daemon[609]: dbus[609]: [system] Rejected send message, 3 matched rules; type="error", sender=":1.44" (uid=1000 pid=1475 comm="/usr/bin/pulseaudio --start ") interface="(unset)" member="(unset)" error name="org.freedesktop.DBus.Error.UnknownMethod" requested_reply="0" destination=":1.0" (uid=0 pid=575 comm="/usr/sbin/bluetoothd -n ")
+Sep  2 09:08:52 fedora19 dbus-daemon[609]: dbus[609]: [system] Rejected send message, 3 matched rules; type="error", sender=":1.44" (uid=1000 pid=1475 comm="/usr/bin/pulseaudio --start ") interface="(unset)" member="(unset)" error name="org.freedesktop.DBus.Error.UnknownMethod" requested_reply="0" destination=":1.0" (uid=0 pid=575 comm="/usr/sbin/bluetoothd -n ")
+Sep  2 09:08:52 fedora19 dbus-daemon[609]: dbus[609]: [system] Rejected send message, 3 matched rules; type="error", sender=":1.44" (uid=1000 pid=1475 comm="/usr/bin/pulseaudio --start ") interface="(unset)" member="(unset)" error name="org.freedesktop.DBus.Error.UnknownMethod" requested_reply="0" destination=":1.0" (uid=0 pid=575 comm="/usr/sbin/bluetoothd -n ")
+Sep  2 09:08:52 fedora19 dbus-daemon[609]: dbus[609]: [system] Rejected send message, 3 matched rules; type="error", sender=":1.44" (uid=1000 pid=1475 comm="/usr/bin/pulseaudio --start ") interface="(unset)" member="(unset)" error name="org.freedesktop.DBus.Error.UnknownMethod" requested_reply="0" destination=":1.0" (uid=0 pid=575 comm="/usr/sbin/bluetoothd -n ")
+Sep  2 09:08:52 fedora19 dbus-daemon[609]: dbus[609]: [system] Rejected send message, 3 matched rules; type="error", sender=":1.52" (uid=1000 pid=1692 comm="/usr/bin/gnome-shell ") interface="(unset)" member="(unset)" error name="org.freedesktop.DBus.Error.UnknownMethod" requested_reply="0" destination=":1.0" (uid=0 pid=575 comm="/usr/sbin/bluetoothd -n ")
+Sep  2 09:08:52 fedora19 bluetoothd[575]: bluetoothd[575]: Adapter /org/bluez/575/hci0 has been enabled
+Sep  2 09:08:52 fedora19 bluetoothd[575]: bluetoothd[575]: Endpoint registered: sender=:1.44 path=/MediaEndpoint/HFPAG
+Sep  2 09:08:52 fedora19 bluetoothd[575]: bluetoothd[575]: Endpoint registered: sender=:1.44 path=/MediaEndpoint/HFPHS
+Sep  2 09:08:52 fedora19 bluetoothd[575]: bluetoothd[575]: Endpoint registered: sender=:1.44 path=/MediaEndpoint/A2DPSource
+Sep  2 09:08:52 fedora19 bluetoothd[575]: bluetoothd[575]: Endpoint registered: sender=:1.44 path=/MediaEndpoint/A2DPSink
+Sep  2 09:08:52 fedora19 bluetoothd[575]: bluetoothd[575]: Unknown command complete for opcode 19
+Sep  2 09:08:52 fedora19 bluetoothd[575]: bluetoothd[575]: hci0: Set Discoverable (0x0006) failed: Busy (0x0a)
+Sep  2 09:08:54 fedora19 kernel: [29493.091483] wireless radio switch turned on
+Sep  2 09:08:56 fedora19 kernel: [29495.109784] ACPI Warning: \_SB_.PCI0.PEG_.VID_._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20131218/nsarguments-95)
+Sep  2 09:08:56 fedora19 kernel: [29495.110518] ACPI Warning: \_SB_.PCI0.PEG_.VID_._DSM: Argument #4 type mismatch - Found [Buffer], ACPI requires [Package] (20131218/nsarguments-95)
+Sep  2 09:09:21 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  2 09:09:21 fedora19 dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  2 09:09:21 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  2 09:09:21 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  2 09:09:25 fedora19 kernel: [29524.258593] r8168: p3p1: link up
+Sep  2 09:09:25 fedora19 kernel: [29524.259138] IPv6: ADDRCONF(NETDEV_CHANGE): p3p1: link becomes ready
+Sep  2 09:09:25 fedora19 NetworkManager[689]: <info> (p3p1): carrier now ON (device state 20)
+Sep  2 09:09:25 fedora19 NetworkManager[689]: <info> (p3p1): device state change: unavailable -> disconnected (reason 'carrier-changed') [20 30 40]
+Sep  2 09:09:25 fedora19 NetworkManager[689]: <info> Auto-activating connection 'eth0'.
+Sep  2 09:09:25 fedora19 NetworkManager[689]: <info> Activation (p3p1) starting connection 'eth0'
+Sep  2 09:09:25 fedora19 NetworkManager[689]: <info> (p3p1): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+Sep  2 09:09:25 fedora19 NetworkManager[689]: <info> NetworkManager state is now CONNECTING
+Sep  2 09:09:25 fedora19 NetworkManager[689]: <info> Activation (p3p1) Stage 1 of 5 (Device Prepare) scheduled...
+Sep  2 09:09:25 fedora19 NetworkManager[689]: <info> Activation (p3p1) Stage 1 of 5 (Device Prepare) started...
+Sep  2 09:09:25 fedora19 NetworkManager[689]: <info> Activation (p3p1) Stage 2 of 5 (Device Configure) scheduled...
+Sep  2 09:09:25 fedora19 NetworkManager[689]: <info> Activation (p3p1) Stage 1 of 5 (Device Prepare) complete.
+Sep  2 09:09:25 fedora19 NetworkManager[689]: <info> Activation (p3p1) Stage 2 of 5 (Device Configure) starting...
+Sep  2 09:09:25 fedora19 NetworkManager[689]: <info> (p3p1): device state change: prepare -> config (reason 'none') [40 50 0]
+Sep  2 09:09:25 fedora19 NetworkManager[689]: <info> Activation (p3p1) Stage 2 of 5 (Device Configure) successful.
+Sep  2 09:09:25 fedora19 NetworkManager[689]: <info> Activation (p3p1) Stage 2 of 5 (Device Configure) complete.
+Sep  2 09:09:25 fedora19 NetworkManager[689]: <info> Activation (p3p1) Stage 3 of 5 (IP Configure Start) scheduled.
+Sep  2 09:09:25 fedora19 NetworkManager[689]: <info> Activation (p3p1) Stage 3 of 5 (IP Configure Start) started...
+Sep  2 09:09:25 fedora19 NetworkManager[689]: <info> (p3p1): device state change: config -> ip-config (reason 'none') [50 70 0]
+Sep  2 09:09:25 fedora19 NetworkManager[689]: <info> Activation (p3p1) Stage 5 of 5 (IPv4 Configure Commit) scheduled...
+Sep  2 09:09:25 fedora19 NetworkManager[689]: <info> Activation (p3p1) Stage 3 of 5 (IP Configure Start) complete.
+Sep  2 09:09:25 fedora19 NetworkManager[689]: <info> Activation (p3p1) Stage 5 of 5 (IPv4 Commit) started...
+Sep  2 09:09:25 fedora19 avahi-daemon[607]: Joining mDNS multicast group on interface p3p1.IPv4 with address 10.131.4.43.
+Sep  2 09:09:25 fedora19 avahi-daemon[607]: New relevant interface p3p1.IPv4 for mDNS.
+Sep  2 09:09:25 fedora19 avahi-daemon[607]: Registering new address record for 10.131.4.43 on p3p1.IPv4.
+Sep  2 09:09:26 fedora19 NetworkManager[689]: <info> (p3p1): device state change: ip-config -> secondaries (reason 'none') [70 90 0]
+Sep  2 09:09:26 fedora19 NetworkManager[689]: <info> Activation (p3p1) Stage 5 of 5 (IPv4 Commit) complete.
+Sep  2 09:09:26 fedora19 NetworkManager[689]: <info> (p3p1): device state change: secondaries -> activated (reason 'none') [90 100 0]
+Sep  2 09:09:26 fedora19 NetworkManager[689]: <info> NetworkManager state is now CONNECTED_GLOBAL
+Sep  2 09:09:26 fedora19 NetworkManager[689]: <info> Policy set 'eth0' (p3p1) as default for IPv4 routing and DNS.
+Sep  2 09:09:26 fedora19 NetworkManager[689]: <info> Activation (p3p1) successful, device activated.
+Sep  2 09:09:26 fedora19 dbus[609]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Sep  2 09:09:26 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Sep  2 09:09:26 fedora19 systemd[1]: Starting Network Manager Script Dispatcher Service...
+Sep  2 09:09:26 fedora19 systemd[1]: Started Network Manager Script Dispatcher Service.
+Sep  2 09:09:26 fedora19 systemd[1]: Unit iscsi.service cannot be reloaded because it is inactive.
+Sep  2 09:09:26 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Sep  2 09:09:26 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Sep  2 09:09:27 fedora19 avahi-daemon[607]: Registering new address record for fe80::2ad2:44ff:fe3e:3468 on p3p1.*.
+Sep  2 09:09:53 fedora19 kernel: [29552.059253] usb 3-6: new low-speed USB device number 14 using xhci_hcd
+Sep  2 09:09:53 fedora19 kernel: [29552.227016] usb 3-6: New USB device found, idVendor=046d, idProduct=c077
+Sep  2 09:09:53 fedora19 kernel: [29552.227023] usb 3-6: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+Sep  2 09:09:53 fedora19 kernel: [29552.227027] usb 3-6: Product: USB Optical Mouse
+Sep  2 09:09:53 fedora19 kernel: [29552.227029] usb 3-6: Manufacturer: Logitech
+Sep  2 09:09:53 fedora19 kernel: [29552.227643] usb 3-6: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+Sep  2 09:09:53 fedora19 kernel: [29552.230078] input: Logitech USB Optical Mouse as /devices/pci0000:00/0000:00:14.0/usb3/3-6/3-6:1.0/0003:046D:C077.0008/input/input22
+Sep  2 09:09:53 fedora19 kernel: [29552.230475] hid-generic 0003:046D:C077.0008: input,hidraw0: USB HID v1.11 Mouse [Logitech USB Optical Mouse] on usb-0000:00:14.0-6/input0
+Sep  2 09:09:53 fedora19 mtp-probe: checking bus 3, device 14: "/sys/devices/pci0000:00/0000:00:14.0/usb3/3-6"
+Sep  2 09:09:53 fedora19 mtp-probe: bus: 3, device: 14 was not an MTP device
+Sep  2 09:12:53 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Sep  2 09:12:53 fedora19 dbus[609]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Sep  2 09:12:53 fedora19 systemd[1]: Starting Fingerprint Authentication Daemon...
+Sep  2 09:12:53 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'net.reactivated.Fprint'
+Sep  2 09:12:53 fedora19 dbus[609]: [system] Successfully activated service 'net.reactivated.Fprint'
+Sep  2 09:12:53 fedora19 systemd[1]: Started Fingerprint Authentication Daemon.
+Sep  2 09:12:53 fedora19 fprintd[19319]: Launching FprintObject
+Sep  2 09:12:53 fedora19 fprintd[19319]: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Sep  2 09:12:53 fedora19 fprintd[19319]: ** Message: entering main loop
+Sep  2 09:12:57 fedora19 gnome-session[1056]: JS LOG: loading default theme (Adwaita)
+Sep  2 09:13:22 fedora19 fprintd[19319]: ** Message: No devices in use, exit
+Sep  2 09:14:10 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  2 09:14:10 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  2 09:14:10 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  2 09:14:10 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  2 09:26:07 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  2 09:26:07 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  2 09:26:07 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  2 09:26:07 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  2 09:26:24 fedora19 gnome-session[1056]: (firefox:2704): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion `targets != NULL' failed
+Sep  2 09:35:33 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  2 09:35:33 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  2 09:35:33 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  2 09:35:33 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  2 09:47:31 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  2 09:51:49 fedora19 gnome-session[1056]: Failed to open VDPAU backend libvdpau_nvidia.so: 无法打开共享对象文件: 没有那个文件或目录
+Sep  2 09:58:58 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  2 09:58:58 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  2 09:58:58 fedora19 dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  2 09:58:58 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  2 09:58:59 fedora19 kernel: [32501.423940] TCP: lp registered
+Sep  2 09:59:06 fedora19 gnome-session[1056]: 窗口管理器警告：Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00003 (软件更�)
+Sep  2 09:59:06 fedora19 gnome-session[1056]: 窗口管理器警告：meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Sep  2 10:08:49 fedora19 gnome-session[1056]: 1409623729181#011addons.repository#011WARN#011Unknown type id when parsing addon: 5
+Sep  2 10:08:51 fedora19 gnome-session[1056]: 1409623731079#011addons.update-checker#011WARN#011Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Sep  2 10:27:42 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 62655 on interface 'p3p1.0'
+Sep  2 10:27:42 fedora19 avahi-daemon[607]: Invalid legacy unicast query packet.
+Sep  2 10:27:42 fedora19 avahi-daemon[607]: Invalid legacy unicast query packet.
+Sep  2 10:27:43 fedora19 avahi-daemon[607]: Invalid legacy unicast query packet.
+Sep  2 10:27:43 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 62655 on interface 'p3p1.0'
+Sep  2 10:27:43 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 62655 on interface 'p3p1.0'
+Sep  2 10:27:44 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 62655 on interface 'p3p1.0'
+Sep  2 10:27:45 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 62655 on interface 'p3p1.0'
+Sep  2 10:27:46 fedora19 avahi-daemon[607]: Received response from host 10.131.4.136 with invalid source port 62655 on interface 'p3p1.0'
+Sep  2 10:51:26 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Sep  2 10:51:26 fedora19 dbus[609]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Sep  2 10:51:26 fedora19 systemd[1]: Starting Fingerprint Authentication Daemon...
+Sep  2 10:51:26 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'net.reactivated.Fprint'
+Sep  2 10:51:26 fedora19 dbus[609]: [system] Successfully activated service 'net.reactivated.Fprint'
+Sep  2 10:51:26 fedora19 systemd[1]: Started Fingerprint Authentication Daemon.
+Sep  2 10:51:26 fedora19 fprintd[20803]: Launching FprintObject
+Sep  2 10:51:26 fedora19 fprintd[20803]: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Sep  2 10:51:26 fedora19 fprintd[20803]: ** Message: entering main loop
+Sep  2 10:51:32 fedora19 gnome-session[1056]: JS LOG: loading default theme (Adwaita)
+Sep  2 10:51:56 fedora19 fprintd[20803]: ** Message: No devices in use, exit
+Sep  2 10:58:58 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  2 10:58:58 fedora19 dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  2 10:58:58 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  2 10:58:58 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep  2 11:00:39 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Sep  2 11:00:39 fedora19 dbus[609]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service'
+Sep  2 11:00:39 fedora19 systemd[1]: Starting Hostname Service...
+Sep  2 11:00:39 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Sep  2 11:00:39 fedora19 dbus[609]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Sep  2 11:00:39 fedora19 systemd[1]: Started Hostname Service.
+Sep  2 11:00:49 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Sep  2 11:00:49 fedora19 dbus[609]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Sep  2 11:00:49 fedora19 systemd[1]: Starting Fingerprint Authentication Daemon...
+Sep  2 11:00:49 fedora19 systemd[1]: Started Fingerprint Authentication Daemon.
+Sep  2 11:00:49 fedora19 dbus-daemon[609]: dbus[609]: [system] Successfully activated service 'net.reactivated.Fprint'
+Sep  2 11:00:49 fedora19 dbus[609]: [system] Successfully activated service 'net.reactivated.Fprint'
+Sep  2 11:00:49 fedora19 fprintd[20927]: Launching FprintObject
+Sep  2 11:00:49 fedora19 fprintd[20927]: ** Message: D-Bus service launched with name: net.reactivated.Fprint
+Sep  2 11:00:49 fedora19 fprintd[20927]: ** Message: entering main loop
+Sep  2 11:00:54 fedora19 ntfs-3g[20959]: Version 2013.1.13 integrated FUSE 27
+Sep  2 11:00:54 fedora19 ntfs-3g[20959]: Mounted /dev/sda2 (Read-Write, label "", NTFS 3.1)
+Sep  2 11:00:54 fedora19 ntfs-3g[20959]: Cmdline options: rw,nodev,nosuid,uid=1000,gid=1000,dmask=0077,fmask=0177,uhelper=udisks2
+Sep  2 11:00:54 fedora19 ntfs-3g[20959]: Mount options: rw,nodev,nosuid,uhelper=udisks2,allow_other,nonempty,relatime,default_permissions,fsname=/dev/sda2,blkdev,blksize=4096
+Sep  2 11:00:54 fedora19 ntfs-3g[20959]: Global ownership and permissions enforced, configuration type 1
+Sep  2 11:00:54 fedora19 udisksd[1622]: Mounted /dev/sda2 at /run/media/hardy/9AA82383A8235CCF on behalf of uid 1000
+Sep  2 11:01:00 fedora19 ntfs-3g[20974]: Version 2013.1.13 integrated FUSE 27
+Sep  2 11:01:00 fedora19 ntfs-3g[20974]: Mounted /dev/sda3 (Read-Write, label "", NTFS 3.1)
+Sep  2 11:01:00 fedora19 ntfs-3g[20974]: Cmdline options: rw,nodev,nosuid,uid=1000,gid=1000,dmask=0077,fmask=0177,uhelper=udisks2
+Sep  2 11:01:00 fedora19 ntfs-3g[20974]: Mount options: rw,nodev,nosuid,uhelper=udisks2,allow_other,nonempty,relatime,default_permissions,fsname=/dev/sda3,blkdev,blksize=4096
+Sep  2 11:01:00 fedora19 ntfs-3g[20974]: Global ownership and permissions enforced, configuration type 1
+Sep  2 11:01:00 fedora19 udisksd[1622]: Mounted /dev/sda3 at /run/media/hardy/12A41FBBA41F9FF1 on behalf of uid 1000
+Sep  2 11:01:16 fedora19 rsyslogd: [origin software="rsyslogd" swVersion="7.2.6" x-pid="605" x-info="http://www.rsyslog.com"] exiting on signal 15.
+Sep  2 11:08:39 fedora19 rsyslogd: [origin software="rsyslogd" swVersion="7.2.6" x-pid="589" x-info="http://www.rsyslog.com"] start
+Sep  2 11:08:39 fedora19 systemd[1]: systemd 204 running in system mode. (+PAM +LIBWRAP +AUDIT +SELINUX +IMA +SYSVINIT +LIBCRYPTSETUP +GCRYPT +ACL +XZ)
+Sep  2 11:08:39 fedora19 systemd[1]: Set hostname to <Fedora19>.
+Sep  2 11:08:39 fedora19 systemd[1]: Started udev Coldplug all Devices.
+Sep  2 11:08:39 fedora19 systemd[1]: Mounted Temporary Directory.
+Sep  2 11:08:39 fedora19 systemd[1]: Mounted Huge Pages File System.
+Sep  2 11:08:39 fedora19 systemd[1]: Mounted Configuration File System.
+Sep  2 11:08:39 fedora19 systemd[1]: Mounted POSIX Message Queue File System.
+Sep  2 11:08:39 fedora19 systemd[1]: Mounted Debug File System.
+Sep  2 11:08:39 fedora19 systemd[1]: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 355 (systemd-binfmt)
+Sep  2 11:08:39 fedora19 systemd[1]: Mounting Arbitrary Executable File Formats File System...
+Sep  2 11:08:39 fedora19 systemd[1]: Started Apply Kernel Variables.
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] Initializing cgroup subsys cpuset
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] Initializing cgroup subsys cpu
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] Initializing cgroup subsys cpuacct
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] Linux version 3.14.15-100.fc19.x86_64 (mockbuild@bkernel01.phx2.fedoraproject.org) (gcc version 4.8.3 20140624 (Red Hat 4.8.3-1) (GCC) ) #1 SMP Fri Aug 1 00:37:10 UTC 2014
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] Command line: BOOT_IMAGE=/vmlinuz-3.14.15-100.fc19.x86_64 root=/dev/mapper/fedora-root ro rd.lvm.lv=fedora/swap rd.md=0 rd.dm=0 vconsole.keymap=us rd.luks=0 vconsole.font=latarcyrheb-sun16 rd.lvm.lv=fedora/root rhgb quiet
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] e820: BIOS-provided physical RAM map:
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] BIOS-e820: [mem 0x0000000000000000-0x000000000009cfff] usable
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] BIOS-e820: [mem 0x000000000009d000-0x000000000009ffff] reserved
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] BIOS-e820: [mem 0x00000000000e0000-0x00000000000fffff] reserved
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] BIOS-e820: [mem 0x0000000000100000-0x00000000ac7fdfff] usable
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] BIOS-e820: [mem 0x00000000ac7fe000-0x00000000bce7efff] reserved
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] BIOS-e820: [mem 0x00000000bce7f000-0x00000000bcf7efff] ACPI NVS
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] BIOS-e820: [mem 0x00000000bcf7f000-0x00000000bcffefff] ACPI data
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] BIOS-e820: [mem 0x00000000bcfff000-0x00000000bf9fffff] reserved
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] BIOS-e820: [mem 0x00000000f8000000-0x00000000fbffffff] reserved
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] BIOS-e820: [mem 0x00000000fec00000-0x00000000fec00fff] reserved
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] BIOS-e820: [mem 0x00000000fed08000-0x00000000fed08fff] reserved
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] BIOS-e820: [mem 0x00000000fed10000-0x00000000fed19fff] reserved
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] BIOS-e820: [mem 0x00000000fed1c000-0x00000000fed1ffff] reserved
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] BIOS-e820: [mem 0x00000000fee00000-0x00000000fee00fff] reserved
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] BIOS-e820: [mem 0x00000000ff000000-0x00000000ff000fff] reserved
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] BIOS-e820: [mem 0x00000000ffc00000-0x00000000ffffffff] reserved
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] BIOS-e820: [mem 0x0000000100000000-0x000000013e5fffff] usable
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] NX (Execute Disable) protection: active
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] SMBIOS 2.7 present.
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] e820: last_pfn = 0x13e600 max_arch_pfn = 0x400000000
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] x86 PAT enabled: cpu 0, old 0x7040600070406, new 0x7010600070106
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] e820: last_pfn = 0xac7fe max_arch_pfn = 0x400000000
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] found SMP MP-table at [mem 0x000f0100-0x000f010f] mapped at [ffff8800000f0100]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] Using GB pages for direct mapping
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] init_memory_mapping: [mem 0x00000000-0x000fffff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] init_memory_mapping: [mem 0x13e400000-0x13e5fffff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] init_memory_mapping: [mem 0x13c000000-0x13e3fffff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] init_memory_mapping: [mem 0x100000000-0x13bffffff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] init_memory_mapping: [mem 0x00100000-0xac7fdfff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] RAMDISK: [mem 0x36d06000-0x3767afff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: RSDP 00000000000f0120 000024 (v02 LENOVO)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: XSDT 00000000bcffe170 0000CC (v01 LENOVO TP-J9    00001140 PTEC 00000002)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: FACP 00000000bcff9000 00010C (v05 LENOVO TP-J9    00001140 PTEC 00000002)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: DSDT 00000000bcfe2000 011D0B (v01 LENOVO TP-J9    00001140 INTL 20120711)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: FACS 00000000bcf49000 000040
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: DBGP 00000000bcffc000 000034 (v01 LENOVO TP-J9    00001140 PTEC 00000002)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: ECDT 00000000bcffb000 000052 (v01 LENOVO TP-J9    00001140 PTEC 00000002)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: HPET 00000000bcff8000 000038 (v01 LENOVO TP-J9    00001140 PTEC 00000002)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: APIC 00000000bcff7000 000098 (v01 LENOVO TP-J9    00001140 PTEC 00000002)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: MCFG 00000000bcff6000 00003C (v01 LENOVO TP-J9    00001140 PTEC 00000002)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: SSDT 00000000bcff5000 000033 (v01 LENOVO TP-SSDT1 00000100 INTL 20120711)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: SSDT 00000000bcff4000 00044F (v01 LENOVO TP-SSDT2 00000200 INTL 20120711)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: SSDT 00000000bcfe1000 000920 (v01 LENOVO SataAhci 00001000 INTL 20120711)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: SSDT 00000000bcfe0000 00078E (v01 LENOVO  Cpu0Ist 00003000 INTL 20120711)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: SSDT 00000000bcfdf000 000AD8 (v01 LENOVO    CpuPm 00003000 INTL 20120711)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: SSDT 00000000bcfdd000 0011FA (v01 LENOVO  SaSsdt  00003000 INTL 20120711)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: SSDT 00000000bcfdc000 000379 (v01 LENOVO CppcTabl 00001000 INTL 20120711)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: PCCT 00000000bcfdb000 00006E (v05 LENOVO TP-J9    00001140 PTEC 00000002)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: SSDT 00000000bcfda000 000AC4 (v01 LENOVO Cpc_Tabl 00001000 INTL 20120711)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: UEFI 00000000bcfd9000 000042 (v01 LENOVO TP-J9    00001140 PTEC 00000002)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: POAT 00000000bcf42000 000055 (v03 LENOVO TP-J9    00001140 PTEC 00000002)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: ASF! 00000000bcffd000 0000A5 (v32 LENOVO TP-J9    00001140 PTEC 00000002)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: BATB 00000000bcfd8000 000046 (v01 LENOVO TP-J9    00001140 PTEC 00000002)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: FPDT 00000000bcfd7000 000064 (v01 LENOVO TP-J9    00001140 PTEC 00000002)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: UEFI 00000000bcfd6000 0002E2 (v01 LENOVO TP-J9    00001140 PTEC 00000002)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] No NUMA configuration found
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] Faking a node at [mem 0x0000000000000000-0x000000013e5fffff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] Initmem setup node 0 [mem 0x00000000-0x13e5fffff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000]   NODE_DATA [mem 0x13e5ea000-0x13e5fdfff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] Zone ranges:
+Sep  2 11:08:39 fedora19 kernel: [    0.000000]   DMA      [mem 0x00001000-0x00ffffff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000]   DMA32    [mem 0x01000000-0xffffffff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000]   Normal   [mem 0x100000000-0x13e5fffff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] Movable zone start for each node
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] Early memory node ranges
+Sep  2 11:08:39 fedora19 kernel: [    0.000000]   node   0: [mem 0x00001000-0x0009cfff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000]   node   0: [mem 0x00100000-0xac7fdfff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000]   node   0: [mem 0x100000000-0x13e5fffff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x1808
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x01] lapic_id[0x00] enabled)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x02] lapic_id[0x01] enabled)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x03] lapic_id[0x02] enabled)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x04] lapic_id[0x03] enabled)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x05] lapic_id[0x00] disabled)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x06] lapic_id[0x00] disabled)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x07] lapic_id[0x00] disabled)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x08] lapic_id[0x00] disabled)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x00] high edge lint[0x1])
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x01] high edge lint[0x1])
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: IOAPIC (id[0x02] address[0xfec00000] gsi_base[0])
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] IOAPIC[0]: apic_id 2, version 32, address 0xfec00000, GSI 0-23
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] ACPI: HPET id: 0x8086a301 base: 0xfed00000
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] smpboot: Allowing 8 CPUs, 4 hotplug CPUs
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] PM: Registered nosave memory: [mem 0x0009d000-0x0009ffff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] PM: Registered nosave memory: [mem 0x000a0000-0x000dffff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] PM: Registered nosave memory: [mem 0x000e0000-0x000fffff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xac7fe000-0xbce7efff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xbce7f000-0xbcf7efff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xbcf7f000-0xbcffefff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xbcfff000-0xbf9fffff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xbfa00000-0xf7ffffff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xf8000000-0xfbffffff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfc000000-0xfebfffff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfec00000-0xfec00fff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfec01000-0xfed07fff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfed08000-0xfed08fff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfed09000-0xfed0ffff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfed10000-0xfed19fff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000] PM: Registered nosave memory: [mem 0xfed1a000-0xfed1bfff]
+Sep  2 11:08:39 fedora19 kernel: [    0.000000]

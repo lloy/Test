@@ -1,0 +1,7 @@
+Sep  1 10:39:41 fedora19 gnome-session[1056]: 窗口管理器警告：Log level 8: meta_ui_frame_get_borders: assertion `type < META_FRAME_TYPE_LAST' failed
+Sep  1 10:39:44 fedora19 gnome-session[1056]: 窗口管理器警告：Log level 16: STACK_OP_RAISE_ABOVE: sibling window 0x247b4c4 not in stack
+Sep  1 10:41:07 fedora19 gnome-session[1056]: (nautilus:2336): GnomeDesktop-WARNING **: Unable to create loader for mime type application/vnd.oasis.opendocument.graphics: 无法识别的图像文件格式
+Sep  1 10:41:07 fedora19 gnome-session[1056]: (nautilus:2336): GnomeDesktop-WARNING **: Error creating thumbnail for file:///home/hardy/cds-mongodb%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2%E5%9B%BE.odg: 无法识别的图像文件格式
+Sep  1 10:51:06 fedora19 dbus-daemon[609]: dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 10:51:06 fedora19 dbus[609]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+Sep  1 10:51:06 fedora19 dbu
